@@ -1,0 +1,2608 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The genteel recreation, or, The pleasure of angling a poem : with a dialogue between Piscator and Corydon / by John Whitney ...</title>
+            <author>Whitney, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 112 KB of XML-encoded text transcribed from 43 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65939</idno>
+            <idno type="STC">Wing W2032</idno>
+            <idno type="STC">ESTC R33639</idno>
+            <idno type="EEBO-CITATION">13541838</idno>
+            <idno type="OCLC">ocm 13541838</idno>
+            <idno type="VID">100090</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65939)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100090)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1559:35)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The genteel recreation, or, The pleasure of angling a poem : with a dialogue between Piscator and Corydon / by John Whitney ...</title>
+                  <author>Whitney, John.</author>
+               </titleStmt>
+               <extent>[12], 70 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fishing --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>Louis Goldberg</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>Louis Goldberg</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100090:1"/>
+            <pb facs="tcp:100090:1"/>
+            <p>THE Genteel Recreation: Or, the Pleaſure of ANGLING, A POEM. With a <hi>DIALOGUE</hi> BETWEEN <hi>Piſcator</hi> and <hi>Corydon.</hi>
+            </p>
+            <p>By <hi>JOHN WHITNEY,</hi> A Lover of the <hi>Angle.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year. 1700.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:100090:2" rendition="simple:additions"/>
+            <pb facs="tcp:100090:2"/>
+            <head>TO My HONOURED FRIEND <hi>JOHN HYDE,</hi> Eſq;</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THE Liberty you gave me this laſt <hi>Summer</hi> to Angle in your great Pond at <hi>Winckhurſt,</hi> emboldens me in grati<g ref="char:EOLhyphen"/>tude to preſent you with this little treatiſe on the pleaſure of <hi>Angling;</hi> the obſervati<g ref="char:EOLhyphen"/>ons are my own, and ſome of the Pleaſure I received in your good Company when <hi>An<g ref="char:EOLhyphen"/>gling</hi> at <hi>Heaver,</hi> and ſince in the Company of Capt. <hi>Comer,</hi> and an other Gentleman at <hi>Winckhurſt;</hi> where in one Day we caught about twenty brace of extraordinary large <hi>Carps</hi> with very ſweet <hi>Eeles</hi> and <hi>Tench;</hi> I be<g ref="char:EOLhyphen"/>lieve I ſhall hardly forget the <hi>Pearch</hi> of eigh<g ref="char:EOLhyphen"/>teen Inches long, caught by Capt. <hi>Comer,</hi> nor the Old Gentlemans reſolution, while we were drinking a Dram of the Bottle, a Fiſh
+<pb facs="tcp:100090:3"/>run away with his Rod, which he being un<g ref="char:EOLhyphen"/>willing to looſe, ſtript off his Cloaths and leapt in, and in ſwimming proved too nimble for the Fiſh, for I aſſure you, he brought them both out with much content to regain his Rod.</p>
+            <p>Sir, the Capt. aſſures me, there be larger <hi>Peareh</hi> in the Pond tho I never ſaw a braver, ſhould I commend the Fiſh ſome may think I flatter, but of all the Ponds I ever Angled in, I never received ſo much delight in ſo little time, nor ever eat of ſweeter or lar<g ref="char:EOLhyphen"/>ger <hi>Carps,</hi> for all we caught that did not ex<g ref="char:EOLhyphen"/>ceed ſixteen or eighteen Inches, we turn'd into the water again, thinking it pity to kill them before they came to their full growth, which commonly exceeds twenty.</p>
+            <p>Sir, I know your Love to Fiſh and Angling, and how to your great coſt, you have cauſed to be dig'd a large ſquare Pond in your great Yard before your dwelling place at <hi>Sundridg,</hi> and ſtoring it with brave <hi>Carps</hi> and other Fiſh, which Pond contains in length three hundred Foot, and two hundred and ten foot in breadth, all dug out of the ſide of a Hill to the depth of fourteen Foot, and wharſing it ninety foot againſt the Highway ſide, with Extraordinary good Plancks of Oak, the Trees being fell'd in your own ground that made them, and then in the mid<g ref="char:EOLhyphen"/>dle
+<pb facs="tcp:100090:3"/>of the Pond a moſt delightful <hi>Summer</hi> Houſe to go to by Boat, twelve foot long and ten foot broad, with a Fountain in the middle, where the water plays in ſundry Figures; beſides the Rails and Balliſters that compaſs it round, there's a Platform of lead on the top, with Rails and Balliſters to walk and Angle upon.</p>
+            <p>But that which gives the greater grace, in my Opinion, is the <hi>Summer</hi> Houſe ſtanding upon a Fiſh Houſe, which beſide the Fiſh there kept, is ſtored all round with Neſts for Ducks, where they breed in abundance, and under the Eves of the uppermoſt Platform, there is an Ingenious contrivance for Coves, wherein the Pidgeons encreaſe extraordina<g ref="char:EOLhyphen"/>ry; It's no eaſy matter for a Simon Suck-egg to Rob either of their Neſts, unleſs he'll ad<g ref="char:EOLhyphen"/>venture at one time both Drowning and Hanging: 'Tis very pleaſant walking round the Pond, where a Man hath ſix or ſeven foot of Earth over his head on the one ſide for a ſhelter, while the other ſide defends him from the water by a ſhade of Oſiers.</p>
+            <p>I have alſo ſeen your round Fountain in your delightful beſt Garden, and the ſtock of Fiſh therein kept to be always at hand to pleaſure your Friends, which is continually ſtored with <hi>Trouts</hi> and <hi>Carps</hi> of the largeſt ſize; I remember alſo the Oval Fountain in
+<pb facs="tcp:100090:4"/>the Kitchen Garden, which is a good Nurſe<g ref="char:EOLhyphen"/>ry for the younger fry, but above all, I ad<g ref="char:EOLhyphen"/>mire at your Ingenuity in contriving that Square Pond on the top of your Houſe, which contains good <hi>Carps</hi> and other Fiſh, and is an excellent divertiſement when you are pleaſed to diſport your ſelf and friends with your fine Water Works, I admired once how the water aſcended to that Height, to be always full of ſweet and freſh water, till you were pleaſed to ſhew me how you perform'd it by the help of an Engine.</p>
+            <p>If there be delights any where, I think you have them all at home, for a Man to ſee Fiſh ſwimming on the top of your Houſe and the Fowls of Heaven to live and breed under the water, will be ſtrange to thoſe whoſe faith is too weak to believe, or capacity to underſtand your Ingenuity, how you have made Coves for Pidgeons under the Pond where they breed, that a Man may juſtly ſay, that only Lead keeps the two Elements a<g ref="char:EOLhyphen"/>ſunder.</p>
+            <p>Sir, you know that what I write is truth, I would not have People think I equivocate when I tell them without Romancing, how that Pond on the Houſes top ſerves not only to keep Fiſh, but alſo to play your fine Water Works, both in your Celler and in the round Fountain in your beſt Garden, but alſo
+<pb facs="tcp:100090:4"/>in the Ovall Fountain in the fore Court, where the water riſes twenty foot Perpen<g ref="char:EOLhyphen"/>dicular; neither muſt I forget the ſame wa<g ref="char:EOLhyphen"/>ter runing through ſeveral Meanders, Plays alſo in the <hi>Summer</hi> Houſe that ſtands in the great Pond.</p>
+            <p>Sir, as you have to my thinking all the pleaſure the Water and the Air can afford you at home, ſo I know you can have abun<g ref="char:EOLhyphen"/>dance more when you are pleaſed to di<g ref="char:EOLhyphen"/>vert your ſelf at <hi>Bore-place,</hi> and injoy the Pleaſure of the great Pond at <hi>Winckhurſt,</hi> either in the <hi>Summer</hi> time with your An<g ref="char:EOLhyphen"/>gle, or in the <hi>Winter</hi> with your Gun in your Boat, when the wild Ducks and other Fowl reſort thither in great Num<g ref="char:EOLhyphen"/>bers, few Ponds being of that extent as to cover twenty Acres, which it is moſt commonly in the <hi>VVinter;</hi> beſide your other Pond call'd <hi>Baillies,</hi> which general<g ref="char:EOLhyphen"/>ly covers twelve Acres of ground, as alſo the lower Pond that contains ſix Acres and feeds two Mills to grind Corn, theſe Ponds being extreamly well ſtored with Fiſh and Wild Fowl in Winter, renders your Injoyments beyond expecta<g ref="char:EOLhyphen"/>tion.</p>
+            <p>I could ſum up more delights attend you, as your Pretty Warren for Coneys cloſed in with a ſubſtantial ſtrong ſtone Wall,
+<pb facs="tcp:100090:5"/>did I think, I could eſcape the cenſure of flattery of which I was never Guilty, and ſince I have been partaker of moſt of them in your Company, and hope ſtill with your Permiſion to injoy them, I do with true thankfulneſs ſubſcribe my ſelf,</p>
+            <closer>
+               <salute>SIR,</salute> 
+               <signed>Your moſt Humble and Obliged Servant, <hi>JOHN VVHITNEY.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:100090:5"/>
+            <head>THE PREFACE TO THE Lovers of <hi>Angling.</hi>
+            </head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>THis little treatiſe of the Pleaſure of <hi>An<g ref="char:EOLhyphen"/>gling</hi> I Compoſed for my own Diver<g ref="char:EOLhyphen"/>ſion, not that I Glory of being an Artiſt in that harmleſs Recreation; Really, I cannot preſume to be the only expert in that Art, knowing there be many abler Artiſts, eſpecially that Ingenious Au<g ref="char:EOLhyphen"/>thor of the Innocent Epicure whoſe Poem is wor<g ref="char:EOLhyphen"/>thy Admiration; I have taken nothing from him, nor others who have wrote of the Art of <hi>Angling,</hi> and think my own Experience is beſt to diſplay my own thoughts, which I have done in a kind of rambling way, my thoughts ſome time run on the Muſes, as well as on Fiſhes, for which reaſon I have endeavoured to put my be<g ref="char:EOLhyphen"/>loved Exerciſe in Verſe, moſt was Compoſed by the River ſide, in ſuch ſeaſons the Fiſh did not
+<pb facs="tcp:100090:6"/>yield the pleaſure I expected, all are my own ob<g ref="char:EOLhyphen"/>ſervations which I have truly related, with ſome Accidents which gave me good Divertion, and am as well pleaſed to ſee my ſelf baulk'd ſome<g ref="char:EOLhyphen"/>times, by looſing a well grown Fiſh by Careleſs<g ref="char:EOLhyphen"/>neſs or Accident, as to have him in my Bag, as you may perceive in ſome places in the Poem; I look upon him to be a good Artiſt, that takes ſome, not he that takes all; I am no engroſſer, neither am I covetous of them, giving moſt and the beſt to Friends, and willingly inſtruct any that bear me Company, and are deſirous to be Proficients in the Art.</p>
+            <p>By giving them all the Inſtructions I can, with the knowledge of the baits I uſe, which frees me from the thoughts of uſing prepoſterous baits, ſome who have been <hi>Angling</hi> with me, have been poſſeſſed with a fancy that I had an Art to min<g ref="char:EOLhyphen"/>gle ſomething with my baits, and for that rea<g ref="char:EOLhyphen"/>ſon took more Fiſh than themſelves, to undeceive them, I have given them of the ſame they have ſeen me bait my Hook with, yet they were never the better Artiſts; Nay, I have given them my <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>od and Line, and taken theirs, with which I took ſome, tho they were with my Tackling no wiſer then before. I ſolemnly proteſt, all the Craft I uſed to ſucceed better then they, was on<g ref="char:EOLhyphen"/>ly due obſervation of the depth of the water, and abſconding my ſelf from ſight, with advantage of Sun and VVind, 'tis true, my Tackling is ge<g ref="char:EOLhyphen"/>nerally fine<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> then moſt uſed in our Rivers, who are afraid of breaking a Line or looſing a Hook,
+<pb facs="tcp:100090:6"/>by reaſon of the great obſtruction of Buſhes and Rotten Trees at the bottom: Tho in ſuch places I commonly find the beſt ſport, neither have they the knowledge, or elſe are negligent to lengthen, or ſhorten their float according to the depth of water, beſide they'd make one Hook to ſerve for all Fiſh, which is meerly ridiculous, with ſix or ſeven hairs to a ſtrand, nay, I have known more; ſuch bungling tackle is good for nothing but to frighten the Fiſh, while I ever uſe but two or three hairs at moſt, and if clear way, will hold a <hi>Chub</hi> of a Foot long. If I am hung on obnoxi<g ref="char:EOLhyphen"/>ous Buſhes or Stubs under water, I have ways to free my Hook, or if loſt, I need not grieve, for I have always more ready, Experience is the beſt director and by daily obſervations.</p>
+            <p>A Man may if ſtock'd with patience ſucceed to his wiſhes, but he muſt have an extraordinary care to obſerve the ſeaſons, without which all is but labour in vain, due conſideration is to be had to his baits as well as Tackling, which are to be ſweet and clean ſcowr'd, eſpecially VVorms and Gentile, the beſt Gentils that I know breed from a Dead Cat, if the <hi>Angler</hi> be nice of his fingers, a pair of broad pliers may keep his hands clean, and a few days lying in bran will make them fit for his ſport. I uſe to ſcowr my VVorms with<g ref="char:EOLhyphen"/>out Fenil or Graſs, as moſt do about me, tho they uſe them commonly juſt taken out of the ground, when I firſt take my worms, I put them into a large earthen Pan, that they may have room to crawl and purge out their earth and ſlime for
+<pb facs="tcp:100090:7"/>about twenty four hours; then I wrap them in a Greaſie Diſh Clout which hath been uſed much, but not to ſalt meat, then I lay clean moiſt Moſs in the bottom of the Pan, with worms in the clout and cover them over with more, in three days they'll begin to eat their way through the clout, and in the Moſs ſcowr themſelves, when hungery, they'll return to the clout again to feed, and in a weeks time be fit for uſe; I kept ſome three Months with once a week changing the Clout and Moſs.</p>
+            <p>It is but labour loſt to deſcribe the keeping of baits and making of Paſtes, wherefore I forbear, only theſe two [except the fly] I moſt commonly uſe, and thought good to ſhew the way I prepare them, tho every one may follow his own fancy; I have been a Lover of <hi>Angling</hi> from a child and now above ſixty cannot forbear, yet never could attain the Art with a Bow and Arrow to ſhoot Fiſh ſwiming, as I have ſeen Boys in the <hi>Weſt-Indies;</hi> I make no queſtion, but ſome will find fault and I expect it, but when I conſider the world affords both wiſe Men and Fools, and both find equal admirers I am ſatisfied; as to the verſe there is faults and folly enough, but grant Poeti<g ref="char:EOLhyphen"/>cal Licence, if in pleaſing no body I have pleas'd my ſelf, and that's all the reward I deſire.</p>
+            <closer>
+               <signed>J. W.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:100090:7"/>
+            <head>THE Genteel Recreation: OR, THE ART OF ANGLING.</head>
+            <lg>
+               <l>HAppy's the Man bleſt with a mode<g ref="char:EOLhyphen"/>rate ſtate,</l>
+               <l>His Grandſires Land devolv'd to him by fate,</l>
+               <l>And conſtant there remains,</l>
+               <l>Bound faſt by Laws ſtrong Adamantine chains,</l>
+               <l>He gently can ſurvey his Meads, and be</l>
+               <l>Spectator of his own felicity;</l>
+               <pb n="2" facs="tcp:100090:8"/>
+               <l>Thoſe curious Meads,</l>
+               <l>New Pleaſure breeds,</l>
+               <l>A purling Brook juſt by,</l>
+               <l>Where the Inhabitants</l>
+               <l>Of all the watery Elements,</l>
+               <l>Strive nature to out-vie.</l>
+               <l>Thoſe various Beauties which the Medows breed,</l>
+               <l>The watery fry in ſpangled glory far exceed,</l>
+               <l>While carking cares that do the mind oppreſs,</l>
+               <l>By Men unwary of their happineſs:</l>
+               <l>Clog'd with the burden of Domeſtick cares,</l>
+               <l>May here diſpel thoſe lingering fears,</l>
+               <l>And learn new Joys, obſerving of the fry,</l>
+               <l>How they at <hi>Natural</hi> and <hi>Artificial</hi> glorys fly.</l>
+               <l>Puft with conceit,</l>
+               <l>They take the bait,</l>
+               <l>And by extorted uſury die.</l>
+               <l>While minds ſedate, ſcorn the deſtroying pelf,</l>
+               <l>And value not that all devouring ſhelf</l>
+               <l>Of mighty riches.</l>
+               <l>Thoughts moſt ſerene, and Calm the mind,</l>
+               <l>No Counter buffs of Fortune blind</l>
+               <l>Their Soul bewitches;</l>
+               <l>Tho Heaven thunder, <hi>Jove</hi> his lightning ſend,</l>
+               <l>They're always conſtant to their friend,</l>
+               <l>And with a Heart moſt pure,</l>
+               <l>The ſtorms of Fortune ever can endure.</l>
+            </lg>
+            <pb n="3" facs="tcp:100090:8"/>
+            <lg>
+               <head>II.</head>
+               <l>But now I'll ſing, how minds oppreſt by care,</l>
+               <l>Find ſundry cures, but this the only rare,</l>
+               <l>While by a Chryſtal brook,</l>
+               <l>With Rod and Line and Hook;</l>
+               <l>They ſtrive for to ſurpriſe,</l>
+               <l>The Rovers of the watery Element,</l>
+               <l>Without a bad Intent</l>
+               <l>Of hoarding up their prize.</l>
+               <l>No Bags of Gold, for which the Miſers wiſh,</l>
+               <l>And dies a Slave unto an empty Diſh,</l>
+               <l>Can them entice</l>
+               <l>Their pleaſure's more,</l>
+               <l>Then all the ſtore,</l>
+               <l>That Damn themſelves by greedy Avarice.</l>
+               <l>Joys ſo ſupreme an <hi>Angler</hi> finds,</l>
+               <l>While all the ſtream he views and therein minds,</l>
+               <l>The true content,</l>
+               <l>Of time well ſpent,</l>
+               <l>In placing of his Hooks and Lines.</l>
+               <l>His ſeveral baits he varies both to time and place,</l>
+               <l>And thinks it no diſgrace;</l>
+               <l>Sometime an eager Fiſh,</l>
+               <l>Fruſtrates the long expected wiſh,</l>
+               <pb n="4" facs="tcp:100090:9"/>
+               <l>By breaking of his Line,</l>
+               <l>Yet he'll not Curſe nor Swear,</l>
+               <l>Like thoſe in paſſion are:</l>
+               <l>But wait a more Auſpicious time.</l>
+               <l>For to retrive the fleeting prey he loſt,</l>
+               <l>And that retaken Glory of the moſt.</l>
+            </lg>
+            <lg>
+               <head>III.</head>
+               <l>Now with the <hi>Tyrant</hi> of the Silver ſtream,</l>
+               <l>I firſt, kind <hi>Maro,</hi> will begin my Angling Theme,</l>
+               <l>And leave the <hi>Sallmon</hi> ſince our ſtreams afford,</l>
+               <l>No Habitation for that mighty Lord.</l>
+               <l>I nothing know, nor nothing ſay of him,</l>
+               <l>So leave him to his Pleaſure where he'll ſwim,</l>
+               <l>But for the <hi>Pike</hi> my chiefeſt love, my care,</l>
+               <l>No pains, no coſt, I willingly would ſpare,</l>
+               <l>For his vocacious Appetite;</l>
+               <l>Enkindles fervour to a freſh delight.</l>
+               <l>When fair <hi>Aurora,</hi> leaves her dark Cavern,</l>
+               <l>And <hi>Sol</hi>'s upriſing firſt I can diſcern,</l>
+               <l>Shaking the moiſture from his dew'y locks,</l>
+               <l>To ſet a Luſture on a Thouſand <hi>Lady Smocks.</hi>
+               </l>
+               <l>Enameling the Medows fair and bright,</l>
+               <l>But juſt reliv'd from the terrours of the night,</l>
+               <pb n="5" facs="tcp:100090:9"/>
+               <l>I march along, and with a dainty taper Pole</l>
+               <l>Of nine foot long or more I make my troul,</l>
+               <l>With Curious Rings fixt ſo to ply,</l>
+               <l>And humour him my skilful Enemy.</l>
+               <l>Firſt from the Brook I take,</l>
+               <l>A <hi>Gudgeon, Roach,</hi> or <hi>Chevin</hi> for my bait,</l>
+               <l>Which ſuddenly I then empail,</l>
+               <l>Upon my hook and fixing tie his tail;</l>
+               <l>My hook well arm'd with wyer ſtrong,</l>
+               <l>And commonly eight Inches long.</l>
+               <l>I to my Swivel ſix, that ſo my line,</l>
+               <l>From fleeting reel may give him his due time.</l>
+               <l>The next care then muſt be to find his haunt,</l>
+               <l>As well as to provide him his Provant,</l>
+               <l>Tho he's not ſqueemiſh, all he ſees</l>
+               <l>Without diſtinction will his fancy pleaſe,</l>
+               <l>Except his Brother <hi>Perch.</hi>
+               </l>
+               <l>Whoſe ſharpned Javelins he diſdains to touch,</l>
+               <l>Well knowing with a Timorous care,</l>
+               <l>His end approaches if enſnared there.</l>
+               <l>So where two Rivers meet,</l>
+               <l>And Loving ſtreams each other greet,</l>
+               <l>Then boldly ſhoot in one,</l>
+               <l>Againſt that ſtream he certain lies,</l>
+               <l>And Pirate like waits to ſurpriſe,</l>
+               <l>The Merchant ſailing on:</l>
+               <l>Or, ſee neer to a hollow bank, and ſilent ſhade,</l>
+               <l>Where ſubjects of the watery Kingdoms made</l>
+               <pb n="6" facs="tcp:100090:10"/>
+               <l>Them ſure receſſes, when the ſtorms grow high,</l>
+               <l>Their conſtant harbours to the ſcaly fry.</l>
+               <l>There begin,</l>
+               <l>And by an even throw,</l>
+               <l>Strive to deceive the Fiſhes mortal foe.</l>
+               <l>Juſt to the brim,</l>
+               <l>Retrive the ſinking <hi>Roach,</hi>
+               </l>
+               <l>With gentle ſtirring then he will approach,</l>
+               <l>With eager haſt to taſte the Loved prey,</l>
+               <l>And Tyrant like take all, then turn away,</l>
+               <l>Then give him line and let the reel ſo be,</l>
+               <l>From knots and ſnarl's exceeding free,</l>
+               <l>He'll quickly drown himſelf in his Debau<g ref="char:EOLhyphen"/>chery;</l>
+               <l>Yet to my ſorrow I but lately found,</l>
+               <l>One took my bait and ſtoutly ſtood his ground.</l>
+               <l>While I expected he ſhould run or fly,</l>
+               <l>The only certain ſign to ſing his obſequie:</l>
+               <l>But he grown cunning,</l>
+               <l>Leſt his runing,</l>
+               <l>Should himſelf deſtroy,</l>
+               <l>Spit forth the bait,</l>
+               <l>And made a ſafe retreat,</l>
+               <l>That baulk'd my much expected Joy.</l>
+            </lg>
+            <pb n="7" facs="tcp:100090:10"/>
+            <lg>
+               <head>IV.</head>
+               <l>In <hi>Surry</hi> Riſes there,</l>
+               <l>A branch of <hi>Medway,</hi> where</l>
+               <l>Store of all ſorts of Fiſh do breed,</l>
+               <l>To ſerve for Pleaſure and for need,</l>
+               <l>Well ſtor'd with Game the Rivers be,</l>
+               <l>Could they from poaching be kept free:</l>
+               <l>Once Angling at the Rivers ſide,</l>
+               <l>Obſerving how the ſtream</l>
+               <l>In gentle motions then did ſlide,</l>
+               <l>With eager haſte to meet his bride,</l>
+               <l>And make his Joys ſupream;</l>
+               <l>By chance I ſpy'd a Ruſtick Clown,
+<note n="*" place="bottom">Jarvice Hills.</note>
+               </l>
+               <l>A halling ſomething up and down,</l>
+               <l>To him I ſtreight repair,</l>
+               <l>And ask'd his buſineſs there.</l>
+               <l>He told me Fiſhing for an hour or two,</l>
+               <l>Lord, how amaz'd was I to ſee him go,</l>
+               <l>A buſh pul'd from the hedg, his Angling rod</l>
+               <l>No top, but like a ſtaff with which Men plod,</l>
+               <l>When driving home full udders to the pail,</l>
+               <l>Heaven bleſs me when ſuch tackling can pre<g ref="char:EOLhyphen"/>vail:</l>
+               <pb n="8" facs="tcp:100090:11"/>
+               <l>His hook ti'd to a ſtring, that to a piece of leather,</l>
+               <l>A flote juſt in the place where both were knit together,</l>
+               <l>Fortune her ſelf that time was double blind,</l>
+               <l>She could not ſee and ſo perforce was kind.</l>
+               <l>For ſtraight he took two <hi>Bleaks,</hi> one <hi>Roach,</hi>
+               </l>
+               <l>And laſt of all a well grown <hi>Perch,</hi>
+               </l>
+               <l>Who gaſping lay upon the ground,</l>
+               <l>I Judged to weigh at leaſt a pound.</l>
+               <l>Pleas'd with the fancy I unto him gave,</l>
+               <l>An Angle, Rod and Line the beſt I have,</l>
+               <l>And ſhew'd him where good baits to find</l>
+               <l>A Cow-turd, ten days old, and newly lin'd,</l>
+               <l>With <hi>blew-tails</hi> which from homed <hi>Gentiles</hi> ſpring,</l>
+               <l>A ready bait and good for every thing,</l>
+               <l>The Man was Civil, and expreſt his mind,</l>
+               <l>In real thanks, then ſought ſome better luck to find.</l>
+               <l>At <hi>Eaton</hi> Bridge we may at firſt begin,</l>
+               <l>To <hi>Trowl</hi> or <hi>Angle</hi> which the Angler will,</l>
+               <l>O're pleaſant Medows which the eye invite,</l>
+               <l>
+                  <note n="*" place="bottom">Mr. <hi>Heury Streatfields.</hi>
+                  </note> To <hi>De la-ware,</hi> whoſe Proſpect gives delight;</l>
+               <pb n="9" facs="tcp:100090:11"/>
+               <l>Surrounding Rivers ſometime over-flow,</l>
+               <l>And waſh the Walls of that moſt Antient Fabrick ſo</l>
+               <l>As if they Homage paid to <hi>Streatfields</hi> Fame,</l>
+               <l>And tendred without trouble their abound<g ref="char:EOLhyphen"/>ing Game.</l>
+               <l>
+                  <hi>Pike, Pearch</hi> and <hi>Roach,</hi> the greedy <hi>Chub</hi> and <hi>Bleak,</hi>
+               </l>
+               <l>With ſeveral others Men Ingenious ſeek,</l>
+               <l>That uſe the <hi>Angle</hi> or Laborious <hi>Trowl,</hi>
+               </l>
+               <l>Morning or Night the Fiſhes to Cajole,</l>
+               <l>And ther's a Fiſh peculiar to that place,</l>
+               <l>If <hi>Jove</hi> wou'd Angle 'twould his God-head grace;</l>
+               <l>Roach-like he's made, his ſcales of burniſh'd Gold,</l>
+               <l>That ſhine like Mettle from <hi>Pactolus</hi> Roll'd,</l>
+               <l>Nameleſs he is, till ſome more fruitful Pen,</l>
+               <l>Deſcribes his wonderous make, like <hi>Adam</hi> when</l>
+               <l>Baptizing Creatures with Immortal Names;</l>
+               <l>The Glory of great <hi>Medway</hi> and more Silver <hi>Thames.</hi>
+               </l>
+               <l>From thence o'r verdent Meads,</l>
+               <l>Our Joys ſupream exceeds,</l>
+               <l>
+                  <note n="*" place="bottom">Mr. <hi>William Streatfield.</hi>
+                  </note> When <hi>Heaver</hi> Caſtle to our eye,</l>
+               <l>Congratulates our coming nigh,</l>
+               <pb n="10" facs="tcp:100090:12"/>
+               <l>Where I full often have moſt wellcome been,</l>
+               <l>To him who is my friend, and thinks it is a ſin,</l>
+               <l>If we neglect his Cider and <hi>March</hi> Beer,</l>
+               <l>His moſt obliging Company and chear:</l>
+               <l>Anglers are wellcome ſtill to him,</l>
+               <l>A Rummer fill'd unto the Brim,</l>
+               <l>Shews Bounty ſtill confin'd within his wall,</l>
+               <l>Till Love and Liquor brings a Deluge o'r us all:</l>
+               <l>No thanks he'll have,</l>
+               <l>His Soul is brave.</l>
+               <l>Ah! <hi>Streatfield,</hi> thee I will Imbrace,</l>
+               <l>In Bonds of Friendſhip, time can't chaſe</l>
+               <l>Thee from my mind, nor from thy Caſtle-Wall,</l>
+               <l>Where Natures Bleſſings are abounding all.</l>
+               <l>To <hi>Chidding-ſtone,</hi> two Miles or more,</l>
+               <l>We Angle may, or then give o'r,</l>
+               <l>If that the Sun decline;</l>
+               <l>Tho many times within the Night,</l>
+               <l>The Fiſh will eagerly and greedy bite,</l>
+               <l>And make our pleaſure all Divine.</l>
+               <l>
+                  <hi>Penhurſt,</hi> thy ſtream's too Rapid and too large,</l>
+               <l>For me to Angle in,</l>
+               <l>My time ill ſpent I there diſcharge,</l>
+               <l>And neither looſe nor win.</l>
+               <l>At <hi>Leigh,</hi> I know freſh paſtime to perſue,</l>
+               <pb n="11" facs="tcp:100090:12"/>
+               <l>And there all day till Night,</l>
+               <l>I reap a double ſweet delight;</l>
+               <l>In thy Meanders among the watery crew,</l>
+               <l>
+                  <hi>Tunbridge</hi> comes next and ſtor'd with <hi>Poach<g ref="char:EOLhyphen"/>ers</hi> plenty,</l>
+               <l>Large is thy ſtream, of Fiſh yet almoſt empty.</l>
+               <l>Large Nets the game do ſo deſtroy,</l>
+               <l>That with an Angle few we can decoy;</l>
+               <l>But here perforce I muſt give o'r,</l>
+               <l>A ſtranger I'm unto the Neighbouring ſhore,</l>
+               <l>The Current's ſtrong and ſwiftly ſpeeds,</l>
+               <l>By Divers turnings through the Meads</l>
+               <l>To <hi>Maidſtone.</hi>
+               </l>
+               <l>Where Oyſter Ketches they in plenty ply,</l>
+               <l>And other Veſſels twice as big or nigh,</l>
+               <l>Are coming home</l>
+               <l>From <hi>Rocheſter,</hi> where with the <hi>Medway</hi> ſhe,</l>
+               <l>Moſt kindly meets and both fall in the <hi>Sea.</hi>
+               </l>
+               <l>Muſe ſing now the <hi>Trout,</hi> with all his Arts,</l>
+               <l>His haunts, his motion and his ſudden ſtarts,</l>
+               <l>Whene'er a curious fly drops in the ſtream</l>
+               <l>Make him thy choice and chuſe him for thy Theam.</l>
+               <l>The off-ſpring of the fair <hi>Darwent,</hi>
+               </l>
+               <l>In thouſand pleaſing Ruptures ſee him riſe,</l>
+               <l>With Murmuring pleaſures to our Ears and Eyes;</l>
+               <l>To force himſelf a vent,</l>
+               <l>In gentle Numbers firſt he ſeems to go,</l>
+               <l>But with united forces will o'erflow</l>
+               <pb n="12" facs="tcp:100090:13"/>
+               <l>His bounds,</l>
+               <l>And all the Neighbouring grounds,</l>
+               <l>That lye below.</l>
+               <l>
+                  <note n="*" place="bottom">At Mr. <hi>Tollers.</hi>
+                  </note> Old <hi>Crockham Street,</hi> where firſt he makes his way,</l>
+               <l>To view <hi>Sol</hi>'s Glory and his brighter ray,</l>
+               <l>The Joyful Iſſue of approaching day,</l>
+               <l>He runs not far before he meets,</l>
+               <l>Fair <hi>Squrries</hi> Nymph sand kindly greets;</l>
+               <l>Three Siſter Ponds well ſtor'd with fry,</l>
+               <l>The Eternal bounties of the sky,</l>
+               <l>Encreaſing more with ſtronger force,</l>
+               <l>To <hi>Weſterham</hi> Town he bends his courſe,</l>
+               <l>Then viſits <hi>Valence</hi> ſtony ground,</l>
+               <l>And in <hi>Meanders</hi> hurls himſelf quite round</l>
+               <l>To <hi>Braiſteed.</hi>
+               </l>
+               <l>At <hi>Sundridg</hi> pent in narrower room,</l>
+               <l>He gets more ſtrength at length to roam.</l>
+               <l>To <hi>Cheapſteed.</hi>
+               </l>
+               <l>Where firſt begins the ſporting prize,</l>
+               <l>Angler beware, for he's preciſe,</l>
+               <l>And knows his time to fink or riſe:</l>
+               <l>If weather's fair and ſultrey hot,</l>
+               <l>Your labour's vain and nothing to be got, Trees;</l>
+               <l>Unleſs a gentle Breez,</l>
+               <l>Blow Neighbouring flys from off the taller</l>
+               <l>Which to your hook and ſingle hair,</l>
+               <l>Judicious eye and ſpecial care.</l>
+               <pb n="13" facs="tcp:100090:13"/>
+               <l>Angler tread ſoft, for if the ground</l>
+               <l>By ruder feet make any ſound;</l>
+               <l>Then void is all your care,</l>
+               <l>As well as if you ſtood too near:</l>
+               <l>Which to prevent no ſhadow ſhould cmoe nigh,</l>
+               <l>Nor you to ſee,</l>
+               <l>Where Fiſhes be,</l>
+               <l>Into the waters pry;</l>
+               <l>Keep the Sun conſtant in your face,</l>
+               <l>Reflections on the water leſs will be,</l>
+               <l>So you'll have pleaſure to embrace,</l>
+               <l>While others looſe by their ſimplicity.</l>
+               <l>
+                  <hi>Cheapſteed,</hi> I'd love thee could'ſt thou always be,</l>
+               <l>From <hi>Knaves</hi> and <hi>Poachers</hi> ever free,</l>
+               <l>Then thy ſweet ſtream would multiply:</l>
+               <l>To <hi>Longford</hi> then where firſt the worm we uſe,</l>
+               <l>For theſe two baits I only always uſe;</l>
+               <l>For <hi>Minnows</hi> none we have, nor none are nigh,</l>
+               <l>For better ſport ſhould <hi>Trouts</hi> our worms deny,</l>
+               <l>And never riſe at Natural, or at Artificial fly,</l>
+               <l>Then ſometime in a dusky evening late:</l>
+               <l>A <hi>grey Snail</hi> from the ground I take,</l>
+               <l>And gently o'r the ſtream I troul.</l>
+               <l>'Tis ſafe, 'tis ſure to try with all,</l>
+               <l>If but ſome Rain the day before did fall,</l>
+               <l>For Muddy ſtreams a little vext,</l>
+               <l>With falling ſhowers decoy him beſt:</l>
+               <pb n="14" facs="tcp:100090:14"/>
+               <l>Or, to take a <hi>Beetle</hi> always brown,</l>
+               <l>That Boys from off the Apple-Trees knock down,</l>
+               <l>Which in an Evening late when all the Stars,</l>
+               <l>To Heavens black Cannopy withdraws.</l>
+               <l>You may be ſure good ſport to ſind,</l>
+               <l>If but the following precepts well you mind,</l>
+               <l>Four Wings he has, two ſcaly, two of ſofteſt down</l>
+               <l>But with his tail your largeſt hook encrown;</l>
+               <l>Ne'r hurt him, all his Wings he will expand,</l>
+               <l>And Sing a Murmuring Tune the Trouts can underſtand,</l>
+               <l>Who greedy of ſo ſweet a prey,</l>
+               <l>Leap ſtraight and bear the Songſter quite away.</l>
+               <l>When with a ſudden touch I feel him rove,</l>
+               <l>I ſoon injoy my wiſhes and my Love,</l>
+               <l>Try this but once, you'll quickly find it true,</l>
+               <l>And neatly after this ſame ſlight perſue.</l>
+               <l>But let no noiſe the wary Trout offend,</l>
+               <l>By ſtiring ground or reeds, leſt vain your wiſhes end.</l>
+               <l>
+                  <note n="*" place="bottom">Mr. <hi>Farnabys.</hi>
+                  </note> Now thro' the <hi>Moore</hi>'s I take my way,</l>
+               <l>And ſilent ſearch o'r Stones and Clay,</l>
+               <l>Which way the ſtream conducts me in my play:</l>
+               <pb n="15" facs="tcp:100090:14"/>
+               <l>A well ſcour'd Lobworm now I only uſe,</l>
+               <l>Which eager <hi>Trouts</hi> but ſeldom will refuſe,</l>
+               <l>But uſe no flote to tell you when they bite,</l>
+               <l>The very thoughts of ſuch a thing will fright</l>
+               <l>The wary <hi>Trout,</hi>
+               </l>
+               <l>Yet I'll reſolve the doubt,</l>
+               <l>How by a certain way,</l>
+               <l>He'll yield himſelf and ſo become your prey:</l>
+               <l>Let lead ſufficient but your worm to ſink,</l>
+               <l>Drive gently with the ſtream I'th midle or the brink,</l>
+               <l>Cloſe on the ground no ſtops or ſtay,</l>
+               <l>To hinder all and ſpoil your play;</l>
+               <l>But with a ſteady hand your Rod and Line ſo keep,</l>
+               <l>That nothing but the ground your bait ſhould ſweep.</l>
+               <l>For if the Line upon the ſurface lies,</l>
+               <l>The Angler with his Tools is little wiſe;</l>
+               <l>He'll miſs his prey,</l>
+               <l>Thro' his uncertain way,</l>
+               <l>The <hi>Trout</hi> is ſtill ſo ſhie.</l>
+               <l>He Angle may,</l>
+               <l>Ten hours a day,</l>
+               <l>And never make one dye:</l>
+               <l>If once you feel him bite,</l>
+               <l>At Morning or at Night,</l>
+               <l>With leaſure let him run,</l>
+               <l>Or elſe your Joys are Baulk'd by looſing half your worm,</l>
+               <pb n="16" facs="tcp:100090:15"/>
+               <l>Which to prevent, give time to Gorge the bait,</l>
+               <l>And by a gentle touch you'll hook him ſtreight.</l>
+               <l>Down thro' the <hi>Moores</hi> to <hi>Otford</hi> gently go,</l>
+               <l>Inviting pleaſures ſtill attend you, ſo</l>
+               <l>To <hi>Shorham,</hi> where uſe your skill and choiceſt care,</l>
+               <l>Both with the worm and ſingle hair,</l>
+               <l>And never doubt for pleaſure moſt abound<g ref="char:EOLhyphen"/>ing there.</l>
+               <l>At twenty places where the River turns,</l>
+               <l>Is ſport ſufficient both for fly and worms:</l>
+               <l>
+                  <note n="*" place="bottom">
+                     <hi>Percivall Hart,</hi> Eſq;</note> At <hi>Lulling ſtone,</hi> and <hi>Farningham,</hi>
+               </l>
+               <l>The <hi>Trouts</hi> are kind and yield good game,</l>
+               <l>If with judicious eye and ſteady hand,</l>
+               <l>Your Rod and Line you can command,</l>
+               <l>When <hi>Dartford,</hi> firſt comes to your eye,</l>
+               <l>Pack up your Tools and homeward high,</l>
+               <l>For ſweet <hi>Darent</hi> by going thither,</l>
+               <l>Flows into <hi>Thames</hi> and runs the Lord knows whether.</l>
+               <l>Now ſing the <hi>Carp</hi> and turn thy theam my Muſe,</l>
+               <l>To freſh delights,</l>
+               <l>And cunning ſlights,</l>
+               <l>That skillful Anglers uſe.</l>
+               <pb n="17" facs="tcp:100090:15"/>
+               <l>This Fiſh takes no delight in Rivers much to be,</l>
+               <l>But pent in Ponds injoys a ſweet Captivity,</l>
+               <l>Well ſtored with ſuch our <hi>Kentiſh</hi> grounds they are,</l>
+               <l>And <hi>Suſſex</hi> too yields ſome exceeding rare;</l>
+               <l>For there I know a little Brook which runs,</l>
+               <l>Firſt with a gentle ſtream then ſilent turns</l>
+               <l>Into a mighty Pond, and finding there a ſtay,</l>
+               <l>Bemoans himſelf to have a freer way,</l>
+               <l>Like to a dying Stag at <hi>Bay;</hi>
+               </l>
+               <l>There's <hi>Carps</hi> the glory of the Land, ſome be</l>
+               <l>Thirty Inches long excepting three.</l>
+               <l>And weighty too when brought unto the ground,</l>
+               <l>Each <hi>Carp</hi> if large, may weigh at leaſt five Pound,</l>
+               <l>When <hi>Sol</hi>'s bright rays began for to decline,</l>
+               <l>A Lovely Evening and a conſtant ſign,</l>
+               <l>
+                  <note n="*" place="bottom">Mrs. <hi>Burges,</hi> of <hi>Withyham.</hi>
+                  </note> A Reverend Matron with a Hook and Line,</l>
+               <l>Had nick'd the moſt auſpicious time:</l>
+               <l>Silent ſhe goes and takes a ſhady ſtand,</l>
+               <l>Watchful her eye and ſteady was her hand,</l>
+               <l>For well ſhe knew them both for to com<g ref="char:EOLhyphen"/>mand,</l>
+               <l>A worm well ſcour'd without the help of ſtinking tar,</l>
+               <pb n="18" facs="tcp:100090:16"/>
+               <l>That was her bait and that was beſt by far,</l>
+               <l>Tho to my coſt I've try'd and certain know,</l>
+               <l>That Tarr's ſtrong ſtench hath little here to do,</l>
+               <l>But kill the worm, but I confeſs that Fiſhes ſmell,</l>
+               <l>Or that my apprehenſion is but ill,</l>
+               <l>For I have ſeen them to my flote and Lead repair,</l>
+               <l>And gently touch them with inſulting care.</l>
+               <l>Nice be their Palats, and their ſenſe exceed<g ref="char:EOLhyphen"/>ing rare,</l>
+               <l>Then by a ſudden turn the bait they ſpie,</l>
+               <l>They ſmell and ſwallow and exclaiming dye;</l>
+               <l>Bleſs me I had forgot,</l>
+               <l>This Tarr diſturbs my mind,</l>
+               <l>My <hi>Matron</hi> at the Fiſhing Plot,</l>
+               <l>That is to Anglers kind,</l>
+               <l>Before the Glorious Sun went down,</l>
+               <l>Returning was the plodding clown,</l>
+               <l>To ſweet repoſe,</l>
+               <l>But ſhe packs up her Tools and homeward goes.</l>
+               <l>Well Laden with a Brace or more,</l>
+               <l>The juſt expence of but one only hour;</l>
+               <l>Fraught with her luck ſome new deſigns,</l>
+               <l>Caus'd me next morn to riſe betimes,</l>
+               <l>'Fore <hi>Sol</hi> had left his watery couch,</l>
+               <l>And to the Pond with ſpeed approach:</l>
+               <l>
+                  <note n="*" place="bottom">Mr. <hi>Nathaniell Roſewell.</hi>
+                  </note> Afriend had lately given to me a ſtrand,</l>
+               <pb n="19" facs="tcp:100090:16"/>
+               <l>And for its ſtrength exceedingly commend,</l>
+               <l>
+                  <note n="†" place="bottom">Indian Graſs.</note> Unhappy when it firſt came to our land;</l>
+               <l>Or I, to pitch upon that Line,</l>
+               <l>To Angle with at that unluckey time,</l>
+               <l>No ſooner was compleat my Fiſhing Geer,</l>
+               <l>But that I chanc'd to ſpie unto me ſteer.</l>
+               <l>Two <hi>Carps</hi> that were of mighty ſize,</l>
+               <l>My heart e'n leapt to make of one a prize;</l>
+               <l>As they came Sailing careleſs on their way,</l>
+               <l>A well ſcour'd worm I in their courſe convay.</l>
+               <l>The water there not two foot deep,</l>
+               <l>Beſides ſo clear,</l>
+               <l>That all their motions plainly did appear,</l>
+               <l>Behind a ſhady Oak conceal'd I ſtood,</l>
+               <l>And with a wary eye obſerv'd the flood,</l>
+               <l>And all their motions as they mov'd,</l>
+               <l>Thus while they nearer drew,</l>
+               <l>My hopes I ſtill renew,</l>
+               <l>They'd nible at my b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>it,</l>
+               <l>Tho after curſe me for my ſly deceit;</l>
+               <l>And quickly plainly cou'd deſcry,</l>
+               <l>That one had ſomething pleaſing to his eye,</l>
+               <l>He ſeem'd to ſmile and with expanded Jaws,</l>
+               <l>Hug'd his good luck and ſilent gave Applauſe.</l>
+               <l>Till with a gentle touch I hook'd him ſtreight,</l>
+               <l>While he ſtood wondring whence ſhould come deceit,</l>
+               <pb n="20" facs="tcp:100090:17"/>
+               <l>Under the Luſter of ſo fair a bait;</l>
+               <l>He never ſeem'd, or ſcorn'd to run,</l>
+               <l>But with a ſudden yerk his tail did turn,</l>
+               <l>And then as ſuddenly my Joys were gone,</l>
+               <l>For my new ſtrand gave way and broke,</l>
+               <l>But what's become of worm and hook,</l>
+               <l>For both I'm ſure he fairly took.</l>
+               <l>Vext, no we Anglers often looſe our prize,</l>
+               <l>Compleat let all our Tackling be and moſt preciſe,</l>
+               <l>For Fiſhes prove ſometimes more wiſe then we,</l>
+               <l>As by this late enſample all may ſee,</l>
+               <l>That Lovers of the Angle be:</l>
+               <l>Immediately I left that ſtand,</l>
+               <l>No ſpeech in Fiſhes be,</l>
+               <l>Yet one another they can underſtand,</l>
+               <l>With ſure dexterity.</l>
+               <l>Then for the ſmaller fry I made my way,</l>
+               <l>The ſtream and Pond affording every day,</l>
+               <l>
+                  <hi>Chub, Roach,</hi> and <hi>Perch</hi> and <hi>Jacks</hi> in plenty be,</l>
+               <l>To give delight and fill neceſſity,</l>
+               <l>Then <hi>Cadbaits</hi> from the ſand I get,</l>
+               <l>Or <hi>Antflys</hi> which the <hi>Roach</hi> Intirely Love,</l>
+               <l>And lay my worms aſide,</l>
+               <l>Sometime with <hi>Gentles</hi> I did bait,</l>
+               <l>My Treacherous hook and hide</l>
+               <l>The barb with wings expanded of a fly,</l>
+               <l>When eager <hi>Roaches</hi> mounted up above,</l>
+               <l>To view the glorys of the sky;</l>
+               <l>With ſuch like tricks as theſe one day,</l>
+               <pb n="21" facs="tcp:100090:17"/>
+               <l>One Hundred Forty odd I made my prey,</l>
+               <l>One Hook, one Line, one Angle Rod,</l>
+               <l>One Mile was all the ground I trod,</l>
+               <l>I ſcorn deceit,</l>
+               <l>And have deſcrib'd the bait;</l>
+               <l>That thoſe who pleaſe hereafter for to try,</l>
+               <l>With theſe ſame baits may well ſucceed as I,</l>
+               <l>Yet ſome there be that talk of <hi>Tar</hi> and <hi>Pitch,</hi>
+               </l>
+               <l>And ſilly <hi>Oyles</hi> the Fiſhes to bewitch:</l>
+               <l>They're all unworthy of my love or care.</l>
+               <l>Begon, begon, all naſty drugs, forbear</l>
+               <l>My Muſe to ſing, but for the <hi>Carp</hi> a dainty worm and red,</l>
+               <l>Will Rouſe him from the bottom of his flaggy bed,</l>
+               <l>Which when he takes and neatly hung,</l>
+               <l>Your skill requires, your tackle ſtrong,</l>
+               <l>For out he ſhoots like Arrow from a bow,</l>
+               <l>As far as Line and Rod permits him go:</l>
+               <l>Yet turn him if you can, within the bent of Rod to roam,</l>
+               <l>And then a Landing Net will ſafely bring him home.</l>
+               <l>
+                  <hi>Suſſex</hi> I leave thee, and to <hi>Kent</hi> repair,</l>
+               <l>Where Ponds are large and waters ever clear,</l>
+               <l>Full flowing ſtreams, and <hi>Carps</hi> in plenty be,</l>
+               <l>The hopeful iſſue to Poſterity;</l>
+               <l>
+                  <note n="*" place="bottom">Sir <hi>Nicolas Criſps,</hi> at <hi>Squirres.</hi>
+                  </note> Three Siſter Ponds of which I whilome told,</l>
+               <l>Grac'd by moſt curious walks on dainty mould</l>
+               <pb n="22" facs="tcp:100090:18"/>
+               <l>Prepetual Springs which ſweetly bubling riſe,</l>
+               <l>Like <hi>Niobes</hi> diſtilling pearly eyes;</l>
+               <l>
+                  <note n="†" place="bottom">
+                     <hi>Tho. Knight,</hi> Eſq;</note> Then the ſquare Pond or Fountain rather,</l>
+               <l>A <hi>Mermaid</hi> always ſprouting out the water,</l>
+               <l>Where as it falls the Fiſhes ſeem to play,</l>
+               <l>Till time or fate conveys the ſtream away.</l>
+               <l>
+                  <note n="*" place="bottom">
+                     <hi>Mr. John Hide,</hi> at <hi>Sundridg.</hi>
+                  </note> 
+                  <hi>Boreplace</hi> a ſeat of my beloved Friend,</l>
+               <l>Whoſe Ponds have ſtreams on which a Mill attend,</l>
+               <l>Leaſt overflowing ſtreams the Corn offend,</l>
+               <l>A Fountain too there is well ſtor'd with fiſh,</l>
+               <l>And ready always for a friendly diſh,</l>
+               <l>If that grow empty then he can Recruit,</l>
+               <l>By fetching from his <hi>Houſes top</hi> ſweet fruit;</l>
+               <l>I mean large <hi>Carps</hi> that in a Pond there be,</l>
+               <l>The product of his Ingenuity.</l>
+               <l>
+                  <note n="†" place="bottom">
+                     <hi>Henry Fane,</hi> Eſq;</note> 
+                  <hi>Combanck</hi> another Pond well ſtor'd,</l>
+               <l>And twenty more the County can afford,</l>
+               <l>But I'm a ſtranger to thoſe fiſh and them,</l>
+               <l>So leave them to a more propitious Pen,</l>
+               <l>Yet if I Liſted, I could Hundreds ſhow,</l>
+               <l>Of Ponds have <hi>Carps,</hi> but muddy grow:</l>
+               <l>Where I good ſtore have often tane,</l>
+               <l>A ſweet requital for my time and pain.</l>
+               <l>Obſerve their ſeaſon, nick the time aright,</l>
+               <l>And baits that moſt they love to bite.</l>
+               <pb n="23" facs="tcp:100090:18"/>
+               <l>Free from their ſpawning then they ſickly be,</l>
+               <l>And ſlight all baits, for nothing will agree,</l>
+               <l>Where Law and Nature hates by ſimpathy.</l>
+               <l>Muſe ſing the Fiſhes <hi>Aeſculapius,</hi> and he</l>
+               <l>Thy next of Themes a Soveraign King moſt free,</l>
+               <l>Beloved of all without an enemy;</l>
+               <l>None Challenge his Perogative,</l>
+               <l>Nor none he ſeeks for to enſlave,</l>
+               <l>But with a kind diſpenſing power,</l>
+               <l>Diffuſes virtue every hour.</l>
+               <l>Hail great Phyſitian of the watry Element.</l>
+               <l>Had Nature more propitious been,</l>
+               <l>And given thee liberty to vent,</l>
+               <l>Thy virtue unto Fiſhes in the Rivers be,</l>
+               <l>Then thy eternal golden fin,</l>
+               <l>Might Challenge the ſole Soveranity,</l>
+               <l>O'er watery Kingdoms and Immortal be,</l>
+               <l>Like thoſe Diviner Fiſhes which in Heaven are,</l>
+               <l>Choice Conſtellations of the Beatitude moſt fair:</l>
+               <l>The mighty <hi>Salmon</hi> and voratious <hi>Pike,</hi>
+               </l>
+               <l>Declining grown to thee they ſeek,</l>
+               <l>And Languiſhingly implore,</l>
+               <l>That thy Diviner help, decayed Nature would reſtore.</l>
+               <l>For well they know an Influence,</l>
+               <l>Flows from thy vertue, their defence</l>
+               <l>Is juſtly due unto thy care,</l>
+               <l>When lingering Age, or Sickneſs brings them to diſpair:</l>
+               <pb n="24" facs="tcp:100090:19"/>
+               <l>But how can Mortals tell, or which way can deſcry,</l>
+               <l>Thoſe Soveraign Balſams in what Cells they lie.</l>
+               <l>For to refund,</l>
+               <l>And by a God-like power,</l>
+               <l>Mans vain Immaginations ſo confound,</l>
+               <l>Paſt all his ſearch for to diſcover;</l>
+               <l>Anatomiſts there are who undertake,</l>
+               <l>To ſearch out Nature and all cauſes make,</l>
+               <l>From occult qualities and well they may,</l>
+               <l>Like Owls be blind in an uncertain way,</l>
+               <l>Should they diſſect thee in great <hi>Neptun</hi>'s publick Hall,</l>
+               <l>And read a Lecture to the Fiſhes all.</l>
+               <l>As on a Malefactor,</l>
+               <l>Ten Thouſand Crabed Names they'd ſoon diſpoſe,</l>
+               <l>Yet never can thy Cabbinet diſcloſe,</l>
+               <l>With Glory to ſucceeding Ages after,</l>
+               <l>Where thy moſt <hi>precious Eſſence</hi> is prepared,</l>
+               <l>Nor in what certain Repoſitory ſtored:</l>
+               <l>But there it is where Nature firſt ordain'd,</l>
+               <l>And there it will remain,</l>
+               <l>Phyſician-like all Patients to attend,</l>
+               <l>Till cured, then reap Immortal fame,</l>
+               <l>Who eager then would be for to deſtroy thy breed,</l>
+               <l>Injuſtice ſure, yet juſtly may ſucceed,</l>
+               <l>When Numerous ſwarms encreaſe and mul<g ref="char:EOLhyphen"/>tiply,</l>
+               <l>That there's no Room for the Ignoble fry,</l>
+               <pb n="25" facs="tcp:100090:19"/>
+               <l>But with expanded fyn's they ſullen dye.</l>
+               <l>Which to prevent,</l>
+               <l>Heaven <hi>Angling</hi> ſent,</l>
+               <l>That by Ingenious ſtrife,</l>
+               <l>Decoying <hi>ſome,</hi> we give the <hi>reſt</hi> a longer life,</l>
+               <l>'Tis pity for to part the <hi>Carp</hi> and he,</l>
+               <l>Since muddy Ponds with both do well agree;</l>
+               <l>One bait doth both delight,</l>
+               <l>A worm that's red and bright,</l>
+               <l>Excells a Thouſand trifling things,</l>
+               <l>That bungling Anglers to ſmall purpoſe brings,</l>
+               <l>To ſcare the Fiſh away:</l>
+               <l>Both yield ſweet pleaſure, both delight,</l>
+               <l>Tho both contrary ways do bite,</l>
+               <l>And alſo play,</l>
+               <l>
+                  <hi>Carp</hi>'s eager gape and draw the flote down<g ref="char:EOLhyphen"/>right,</l>
+               <l>Then when he's hung he runs with all his might,</l>
+               <l>Nor water beats he with his tail,</l>
+               <l>Till life and ſtrength together fail;</l>
+               <l>The <hi>Tench</hi> he only gently ſucks the worm,</l>
+               <l>And ſeveral ways the floting flote will turn,</l>
+               <l>Until the hook within his Jaws doth lie,</l>
+               <l>Angler forbear, for that once done to th' reeds he'll ply,</l>
+               <l>Thinking his prey for to ſecure and ſpeedy dye,</l>
+               <l>One gentle touch he'll beat the water with his tail,</l>
+               <l>Imploring help, no help can then prevail,</l>
+               <l>Unleſs your ſtrand or line give way,</l>
+               <l>And ſo by eager haſte become the Fiſhes prey.</l>
+               <pb n="26" facs="tcp:100090:20"/>
+               <l>
+                  <note n="*" place="bottom">The Lady <hi>James,</hi> at <hi>Ightham.</hi>
+                  </note> Thus lately by a pleaſant Pond I Angling ſtood,</l>
+               <l>With <hi>Carp</hi> and <hi>Tench</hi> indifferently ſtor'd,</l>
+               <l>My hour was late and little time to ſtay,</l>
+               <l>Yet took four brace then homeward made my way.</l>
+               <l>Muſe now raiſe thy fancy once again,</l>
+               <l>And ſing the <hi>Eele</hi> and where he doth remain,</l>
+               <l>That yields no pleaſure all the Winter long,</l>
+               <l>But keeps in muddy holds moſt ſure and ſtrong,</l>
+               <l>Till <hi>Sol</hi>'s bright rays the waters gently heat,</l>
+               <l>For then he looks abroad and leaves his ſafe retreat.</l>
+               <l>Contrary to all Creatures elſe in ſtormy weather,</l>
+               <l>He leaves his hold and flys the Lord knows whether;</l>
+               <l>
+                  <note n="†" place="bottom">On a Common near <hi>Crayden.</hi>
+                  </note> For I have ſeen a Pond without a Flag or Reed,</l>
+               <l>Or any Buſh for ſhelter, where no Fiſhes breed.</l>
+               <l>To Man's Imagination, on a Common large,</l>
+               <l>When <hi>Jove</hi> his thunder firſt began diſcharge,</l>
+               <l>With flaſh'y lightning, mighty Peals did rend,</l>
+               <l>The welkin ſo,</l>
+               <l>That Travellers refuſed to go,</l>
+               <l>Unto their Journeys end:</l>
+               <l>By what prepoſterous Action or what cauſe,</l>
+               <l>A ſudden trembling to the Earth withdraws,</l>
+               <pb n="27" facs="tcp:100090:20"/>
+               <l>And <hi>Eeles</hi> in mighty number the ſurface ſoon</l>
+               <l>Incumber in that horrid Afternoon;</l>
+               <l>Angler now tell me if you had been there,</l>
+               <l>What bait you'd uſe while Fiſhes lay ſo fair,</l>
+               <l>All in your eye upon the Waters top,</l>
+               <l>Not daring to deſcend,</l>
+               <l>Having no ſhelter nor no Friend,</l>
+               <l>Their tottering Kingdom to defend,</l>
+               <l>From the encroaching fop.</l>
+               <l>Yet now I'll tell how they were ta'ne without a bait,</l>
+               <l>Clowns they Conſpire, Conſpiring fetch a Rake,</l>
+               <l>And with that Ruſtick Tool ſome hundreds take:</l>
+               <l>Some large and over-grown,</l>
+               <l>That long had liv'd yet dy'd too ſoon,</l>
+               <l>In ſuch prepoſterous way,</l>
+               <l>I never knew before, and Heaven grant I ne<g ref="char:EOLhyphen"/>ver may.</l>
+               <l>I won't relate the ſeveral ways they're ta'ne,</l>
+               <l>By <hi>bobbing</hi> or by <hi>Pots,</hi> that's vain,</l>
+               <l>But to my Theme of <hi>Angling</hi> keep,</l>
+               <l>In Rivers or in Ponds that's deep,</l>
+               <l>Nor ſhall the ſundry ways diſturb my ſleep.</l>
+               <l>Tho by the River many a Night have I</l>
+               <l>Spent in Contemplating <hi>Heaven,</hi> and the <hi>Starry Cannopy,</hi>
+               </l>
+               <l>And with the patience of an Am'rous Maid,</l>
+               <l>For my expected Joy I ſilent ſtay'd,</l>
+               <l>Down at the bottom there he conſtant lies,</l>
+               <l>'Mong Mud and Flags and Roots of rotten Trees:</l>
+               <pb n="28" facs="tcp:100090:21"/>
+               <l>Or at the ſluces where the waters fall,</l>
+               <l>Which ſtop't, o'er flow the Bancks and Meads, and all</l>
+               <l>The Neighbouring grounds below,</l>
+               <l>If there he's miſt then to the Bridges go.</l>
+               <l>And near the poſts that prop them up,</l>
+               <l>His uſual time is late at Night to ſup,</l>
+               <l>On what the ſtream into his way conveys,</l>
+               <l>For <hi>Fiſhes dead</hi> become his conſtant preys;</l>
+               <l>The darkeſt Nights, if thoſe you chuſe,</l>
+               <l>And ſuch kind Angler, ne'er refuſe,</l>
+               <l>With Line that's ſtrong, and ſtrong your Rod,</l>
+               <l>You'll hardly miſs his dark abode,</l>
+               <l>For Night's his everlaſting time,</l>
+               <l>From <hi>ten</hi> to <hi>twelve</hi> the only prime.</l>
+               <l>Try firſt your <hi>worm</hi> if that wont do,</l>
+               <l>A <hi>Pickle Herring</hi> ſoon will bring him too,</l>
+               <l>Or <hi>little Fiſh,</hi> in them he'll much delight,</l>
+               <l>And ſwallow all and hardly ever bite</l>
+               <l>Amiſs when hung, ne'er ſtand to give him play,</l>
+               <l>For much he'll ſtrive your Line for to convey,</l>
+               <l>Among ſuch ſtubs or roots in Rivers be,</l>
+               <l>Then Angler you are loſt by your ſimplicity,</l>
+               <l>Which to prevent and ſo prevail,</l>
+               <l>Rear up his head and Pendant be his Tail,</l>
+               <l>Elſe he like Boys within a hoop,</l>
+               <l>In Thouſand Gambol's will directly ſhoot,</l>
+               <l>Spite of your Teeth he'll brake your ſtrand or line,</l>
+               <l>And rend his throat in pieces at that time.</l>
+               <l>So ſlipery he'll glide between your hands and be,</l>
+               <l>Like <hi>Gigas</hi> ring, Inviſible and free;</l>
+               <pb n="29" facs="tcp:100090:21"/>
+               <l>But rowl him on the ſand his ſtrength is gone,</l>
+               <l>And juſtly then you call him may your own.</l>
+               <l>More ways I yet could ſhow,</l>
+               <l>How <hi>Eeles</hi> are taken which full well I know,</l>
+               <l>But I'll forbear, and only now relate,</l>
+               <l>How they are taken without a line or bait;</l>
+               <l>No <hi>Eele-Pots,</hi> nor no <hi>Nets,</hi> but <hi>Shovel</hi> and an Awl</l>
+               <l>Creating Pleaſure, if Pleaſures be at all.</l>
+               <l>Angler forbear to ſmile</l>
+               <l>At what I now relate,</l>
+               <l>Have Patience yet a while</l>
+               <l>And I'll declare it ſtreight.</l>
+               <l>At <hi>Orpington</hi> ſome bubbling ſpouts there riſe,</l>
+               <l>No biger then the Pearls fall from our eyes,</l>
+               <l>(When ſome dear Friend is lately dead and gone,</l>
+               <l>At whoſe lamented obſequſes we mourn)</l>
+               <l>While Multiplying more; in little way</l>
+               <l>They make a ſtream, that glides into the Sea.</l>
+               <l>So ſhallow every ſtone is plainly told,</l>
+               <l>
+                  <hi>Pactolus</hi> with her Glitring ſtreams of Gold,</l>
+               <l>Can't ſhew ſuch treaſure, and what's more,</l>
+               <l>Ther's <hi>Trouts,</hi> and <hi>Eeles</hi> a mighty ſtore.</l>
+               <l>But to the purpoſe, how theſe <hi>Eeles</hi> are ta'ne,</l>
+               <l>Requires ſome time as well as pain.</l>
+               <l>Thro' St. <hi>Mary Clay,</hi> the ſtream gently glides,</l>
+               <l>And runs by <hi>Foots-Cray</hi> and to <hi>North-Cray</hi> beſides;</l>
+               <l>
+                  <note n="*" place="bottom">Major <hi>Bugings,</hi> at <hi>North-Cray.</hi>
+                  </note> Where the ſport begins,</l>
+               <l>When Heaven's ſo dark that nothing ſhines,</l>
+               <pb n="30" facs="tcp:100090:22"/>
+               <l>But its black Cannopy extending fair,</l>
+               <l>Throws an Eternal Sable thro' the Air:</l>
+               <l>Then from their watery Burroughs <hi>Eeles</hi> reſort,</l>
+               <l>And leave the ſafety of the Liquid Court.</l>
+               <l>Like Lovers, in the dark they are moſt kind,</l>
+               <l>And ſweetly meet, new bliſſes by Injoying find.</l>
+               <l>A <hi>Ruſtick</hi> with a Flambeau in his hand,</l>
+               <l>Goes like a Page of Honour thro' the <hi>Strand,</hi>
+               </l>
+               <l>When Madam ſhe's retiring from the Play to Court,</l>
+               <l>Cloy'd with vain repetitions and an Idle ſport.</l>
+               <l>Vain is that pleaſure yields us no delight,</l>
+               <l>But dulls our over clouded Appetite.</l>
+               <l>Reſume thy theme, the Flambeau gliſtering bright,</l>
+               <l>The wandering <hi>Eeles</hi> are dazel'd at the light,</l>
+               <l>And, like to Boys admiring, grow</l>
+               <l>Bold at a Lord <hi>Mayors</hi> Pageant ſhow:</l>
+               <l>They nearer draw, and ſtill the glittering fire;</l>
+               <l>As he walks up and down, applaud, admire,</l>
+               <l>He warily knows how to pick and chuſe,</l>
+               <l>And neatly can his skillful ſhovel uſe;</l>
+               <l>For when the larger ſort comes in his way,</l>
+               <l>Down goes the ſhovel, and he's forc'd to ſtay</l>
+               <l>Till with the Awl they him to Land convey.</l>
+               <l>Now ſee ſweet <hi>Maro,</hi> of the <hi>Pearch</hi> I ſing,</l>
+               <l>And Dedicate to thee, who art the Muſes King,</l>
+               <l>My ſolemn Theme;</l>
+               <l>Aſſiſt me then,</l>
+               <l>Recorder of the Acts of Gods and Men.</l>
+               <pb n="31" facs="tcp:100090:22"/>
+               <l>Leſt that my trembling Pen in vain eſſay,</l>
+               <l>
+                  <hi>Ignis Fatuus</hi>-like, loſt in uncertain way.</l>
+               <l>Had I thy Genius, then my quill ſhould raiſe,</l>
+               <l>Immortal Glory to thy Name with praiſe.</l>
+               <l>While thou, bleſt <hi>Hero,</hi> to the Gods conjoyn'd,</l>
+               <l>And, by eternal Love, to Man Combin'd,</l>
+               <l>ſhews us the Paths of virtue how to tread,</l>
+               <l>And Magnify the Glory of the Dead.</l>
+               <l>For thou alone</l>
+               <l>Haſt further gone,</l>
+               <l>In thine Immortal lays,</l>
+               <l>Then all the ſcribling Poets in our laſt declin<g ref="char:EOLhyphen"/>ing days,</l>
+               <l>Choice is my Theme,</l>
+               <l>The <hi>Vice Roy</hi> of the ſtream,</l>
+               <l>That now I mean declare,</l>
+               <l>And his abiding place,</l>
+               <l>No Lofty Turrets do his Palace grace,</l>
+               <l>Yet he delights in Silver ſtreams moſt fair.</l>
+               <l>A gentle current and a ſandy ground,</l>
+               <l>With curious Pebles that abound,</l>
+               <l>Are his Eternal way.</l>
+               <l>For o'er the ſtream he ranges ſtill,</l>
+               <l>And, Glutton-like, his ſtomach ſeeks to fill;</l>
+               <l>Then to a buſh convey</l>
+               <l>His Porcupine and briſtly back,</l>
+               <l>That with an Eager fierce attack,</l>
+               <l>Whole ſholes are forced to give him way.</l>
+               <l>Sometimes in holes moſt deep,</l>
+               <l>Like winking Cat, he'll ſeem aſleep,</l>
+               <l>Till ſome bold <hi>Minnow,</hi> or the ſmaller fry,</l>
+               <l>Inſult about him, then he'll quickly ply</l>
+               <pb n="32" facs="tcp:100090:23"/>
+               <l>Againſt a Million all he will withſtand,</l>
+               <l>Till ſome poor Captive ſtays his furious hand,</l>
+               <l>Remorſeleſs, he ne'er fears, nor prays,</l>
+               <l>But all he conquers, he as ſudden ſlays;</l>
+               <l>His Paſſion's hot, and ſeldom cool,</l>
+               <l>Till taken with a Gin by ſome laborious fool:</l>
+               <l>Yet, like a <hi>Turk,</hi> in all extreams looks high,</l>
+               <l>Shakes his ſharp Javelin, Blaſphemes his God and dyes.</l>
+               <l>
+                  <note n="*" place="bottom">
+                     <hi>Higham,</hi> and <hi>Stratford,</hi> by <hi>Denham.</hi>
+                  </note> In <hi>Suffolk</hi> there I know a ſtream,</l>
+               <l>Where it begins I Ignorant am,</l>
+               <l>But ſtor'd it is with ſpacious fry,</l>
+               <l>Of different ſorts; what there I've ta'ne,</l>
+               <l>Of thoſe I'll ſing, and let the reſt remain</l>
+               <l>Till ſome more Curious, with more skill then I,</l>
+               <l>Their mighty numbers fairly can deſcry,</l>
+               <l>And from what Fountain firſt,</l>
+               <l>The fruitful waters burſt,</l>
+               <l>That daily pay a tribute to the Sea,</l>
+               <l>Are Theams too high, and ſo unknown to me.</l>
+               <l>But there kind Fortune once to me was kind,</l>
+               <l>That, for one year, I nothing had to mind,</l>
+               <l>But pleaſure by that River ſide,</l>
+               <l>Where ſtill, with all my Heart, I willingly could abide:</l>
+               <l>Such ſtore it yields as I before ne'er knew,</l>
+               <l>And daily did my Lov'd delights renew.</l>
+               <pb n="33" facs="tcp:100090:23"/>
+               <l>For Angling from a Child I ſtill do priſe,</l>
+               <l>The beſt of pleaſures, for the grave and wiſe.</l>
+               <l>Oh! Who can tell the ſtore of <hi>Pikes</hi> are there?</l>
+               <l>Twelve, Sixteen Pound of Fiſh, repays the Anglers care,</l>
+               <l>If but one hour or two he well can ſpare;</l>
+               <l>And all the bait he needeth for't,</l>
+               <l>Is but a <hi>Gudgeon,</hi> of the largeſt ſort,</l>
+               <l>Or elſe a <hi>Roach,</hi> fixt to the Trouling Line,</l>
+               <l>With obſervation of his feeding time.</l>
+               <l>I have admir'd to ſee, tho hooks were double.</l>
+               <l>The <hi>Trouler</hi> pleaſe himſelf with needleſs Trouble,</l>
+               <l>A mighty Pole, Line like a Cable Rope</l>
+               <l>For ſtrength, yet looſe his prize and hope;</l>
+               <l>They were no Artiſts, little skill they had,</l>
+               <l>Saving to Curſe and Swear, like Bedlams, mad</l>
+               <l>When a ſtout Pike from their rude hands made way,</l>
+               <l>And joyful glides along the ſtream to play;</l>
+               <l>The Proverb is forgot, no Anglers ought to ſwear,</l>
+               <l>The leaſt of Oaths the Fiſhes ſoon will ſcare,</l>
+               <l>And Imprecations too make them the bait forbear,</l>
+               <l>But I forget my Theam, my Angling for the <hi>Pearch,</hi>
+               </l>
+               <l>And ſlight the <hi>Gudgeon, Chub,</hi> the <hi>Bream</hi> and <hi>Roach:</hi>
+               </l>
+               <pb n="34" facs="tcp:100090:24"/>
+               <l>Supplys the ſtream with new recruits each hour;</l>
+               <l>For there's ſuch plenty, Heavens Eternal Power,</l>
+               <l>For every Evening all the Summer long,</l>
+               <l>I don't remember I went empty home,</l>
+               <l>And ſtill ſpent but few hours at a time,</l>
+               <l>From Three, till Six, I found the only prime,</l>
+               <l>For in that Summer, a Thouſand <hi>Pearch,</hi> and more;</l>
+               <l>I had deſtroy'd, and might as many more;</l>
+               <l>All with a Hook and Line,</l>
+               <l>I us'd no Poaching way,</l>
+               <l>Nor any thing that was unjuſt the Fiſhes to decoy;</l>
+               <l>Beſides good ſtore of <hi>Roach,</hi> and ſome of <hi>Bream,</hi>
+               </l>
+               <l>And other Fiſh inhabit in the ſtream,</l>
+               <l>But ſtill the <hi>Pearch</hi> was beſt,</l>
+               <l>And always him I ſought moſt to moleſt.</l>
+               <l>When Ruſtick People they have any time,</l>
+               <l>To Fiſhing ſtreight they go,</l>
+               <l>And hardly either Sup or Dine,</l>
+               <l>Without a brace or two.</l>
+               <l>But to obſerve theſe Ruſticks Tools,</l>
+               <l>The World might well pronounce them Fools,</l>
+               <l>Nay Fools in Grain, but ſtill ſuch luck moſt have,</l>
+               <l>As Fortune ſends to thoſe are Mad or Brave.</l>
+               <l>For with a Hook ty'd to a Pack-thread Line,</l>
+               <l>They'll take you, ſome times, twenty at a time;</l>
+               <pb n="35" facs="tcp:100090:24"/>
+               <l>Their Rod, a Goad, or ſome ſuch fooliſh thing,</l>
+               <l>A ſit Companion for their home ſpun ſtring,</l>
+               <l>Their bait, a worm that's large, in ſunder Torn,</l>
+               <l>For little things theſe kind wiſe Acres Scorn,</l>
+               <l>They'd never Angle in the middle of the ſtream,</l>
+               <l>But near the Banck, 'mong buſhes moſt extream,</l>
+               <l>And if the buſhes hung them in their play,</l>
+               <l>Their Line was ſtrong to bring them ſtill away,</l>
+               <l>I oft have been <hi>Amaz'd</hi> to ſee</l>
+               <l>The very <hi>Boys</hi> grow wiſe,</l>
+               <l>At their Old <hi>Fathers</hi> great ſimplicity.</l>
+               <l>One evening, <hi>Sol</hi> declining grown,</l>
+               <l>My Tools packt up, and I returning home,</l>
+               <l>I chanc'd in ſhallow water ſpy</l>
+               <l>A Luſty well grown <hi>Jack</hi> to lye,</l>
+               <l>So ſteady that you'd think</l>
+               <l>Him Dead to flote ſo near the brink;</l>
+               <l>I view'd him long, and wondred much to ſee</l>
+               <l>He'd make no motion, at my ſhade, nor me;</l>
+               <l>And, by ill Fortune, at that time</l>
+               <l>I had no Troul nor Trouling Line;</l>
+               <l>He lay too far for me to ſnare,</l>
+               <l>And I had none but Lines were made of hair,</l>
+               <l>Yet was reſolv'd to have ſome ſport,</l>
+               <l>With that ſtout Tyrant of the Liquid Court;</l>
+               <l>A <hi>Roach</hi> alive I fixt, to bear</l>
+               <l>Upon a Line, and drew it near,</l>
+               <pb n="36" facs="tcp:100090:25"/>
+               <l>His mighty and expanded Jaws,</l>
+               <l>Like Hells wide mouth, immediately diſcloſe</l>
+               <l>Whole rows of Teeth, as <hi>Cadmus</hi> earth born Sons</l>
+               <l>Each other view,</l>
+               <l>Then furious ſlew,</l>
+               <l>As from the ground they ſprung by turns.</l>
+               <l>Lord how I wondred, when the <hi>Roach</hi> went in</l>
+               <l>That yawning Gulph, and could no further ſwim:</l>
+               <l>That dark Abbiſs</l>
+               <l>His laſt receſs</l>
+               <l>Was the Eternal end of him.</l>
+               <l>Fain would I more have ſeen and known,</l>
+               <l>For obſervation ſeldom comes too ſoon;</l>
+               <l>But he, Tyrant-like, ſhew'd me the Tyrants play,</l>
+               <l>Turn'd his large head, and with the ſtream ſlid quite a way.</l>
+               <l>Angler don't think I Equivocate or lie,</l>
+               <l>The truth I hear declare and the whole miſte<g ref="char:EOLhyphen"/>ry,</l>
+               <l>For with a <hi>Worm,</hi> or elſe a <hi>Minnow</hi> ſmall,</l>
+               <l>Thoſe Fifteen Hundred <hi>Pearch</hi> I took them all.</l>
+               <l>Cloy'd with my pleaſure, ſtill my cares renew,</l>
+               <l>And Angling, all my Joys, I daily ſtill purſue</l>
+               <l>Till Winter came, and <hi>Boreu's</hi> ſtubborn wind,</l>
+               <l>With flakes of Snow and Ice, the earth and water joyn'd,</l>
+               <l>Like Twins, that from one womb tho both proceed,</l>
+               <l>Have different virtues at their different need.</l>
+               <l>For when the River's froze as hard as ſtone,</l>
+               <l>And all the Fiſhes, there Impriſon'd, mourn;</l>
+               <pb n="37" facs="tcp:100090:25"/>
+               <l>Another game I us'd to find,</l>
+               <l>Where <hi>Duck</hi> and <hi>Mallard</hi> multiply'd their kind</l>
+               <l>And ſince my ſport of Angling was debar'd,</l>
+               <l>Something I'd have, or elſe I thought it hard;</l>
+               <l>One Element juſt turn'd to ſtone,</l>
+               <l>If that the other could afford me none:</l>
+               <l>Three tedious Months of Winter weather,</l>
+               <l>All ſorts of Wild Fowl Heaven ſent me thi<g ref="char:EOLhyphen"/>ther,</l>
+               <l>I ne'er Examined whence they came, nor go<g ref="char:EOLhyphen"/>ing whether;</l>
+               <l>For if in ſixty yards, or little more,</l>
+               <l>Whether in the Air, or on the ſhore,</l>
+               <l>I little car'd, all one it was to me,</l>
+               <l>If with advantage then I could deliver free.</l>
+               <l>Some ſcores of Wild Fowl there I fairly ſhot,</l>
+               <l>Some for the Spit, and ſome were for the Pot;</l>
+               <l>Of ſome I preſents made unto my Friends,</l>
+               <l>No Nigards mind, nor Miſers wiſh on me Attends.</l>
+               <l>Angler had you been there you'd far'd as well as I,</l>
+               <l>For Heavens bounty, Heaven be prais'd Eter<g ref="char:EOLhyphen"/>nally.</l>
+               <l>Now the <hi>Eager</hi> and voracious <hi>Chub</hi> rehearſe,</l>
+               <l>That mounts the water, ſees the univerſe,</l>
+               <l>Then to the bottom nimbly ſcuds,</l>
+               <l>And hides his daring head beneath the flouds,</l>
+               <l>Till ſome new object makes him riſe,</l>
+               <l>A <hi>Hopper</hi> or ſome larger fly's,</l>
+               <pb n="38" facs="tcp:100090:26"/>
+               <l>Then nimbly down he'll dive, and with his prey,</l>
+               <l>Obſcure himſelf from <hi>Sol</hi>'s moſt Glorious ray,</l>
+               <l>Under a ſhady Oak,</l>
+               <l>His motions common look,</l>
+               <l>For there he'll riſe and fall,</l>
+               <l>As often as convenient Beauties call;</l>
+               <l>If ſhadows do approach him, then he's ſhy,</l>
+               <l>And ſhuns the Alterations of the sky,</l>
+               <l>But when Serene and Calm, in Rivers large,</l>
+               <l>He joyfully exerts his force, and charge</l>
+               <l>Battalions of the Buzzing Excrements,</l>
+               <l>On whom his ſpiteful Choler daily vents</l>
+               <l>A freſh revenge;</l>
+               <l>Till with a cunning hand, and baited hook,</l>
+               <l>His pride ſtrikes Sail, as being ſoon miſtook,</l>
+               <l>So greedy Wolves who after Midnight range,</l>
+               <l>Fall in a Pit-fall and their lives exchange.</l>
+               <l>Vain Pride by accidental chances come</l>
+               <l>Unto a Period, and the everlaſting Sun</l>
+               <l>Climb's higher ſtill, till Climbing throws him down,</l>
+               <l>And in a Sable Vails the Immortal Crown</l>
+               <l>Of Light,</l>
+               <l>But to my Theme,</l>
+               <l>The <hi>Chubs</hi> are then</l>
+               <l>Eternal Gormandizers;</l>
+               <l>A <hi>Gentle</hi> or a <hi>Worm,</hi> ſometimes he'll take,</l>
+               <l>And ſeldom e'er refuſe the bait,</l>
+               <l>Of verdant ſinging <hi>Hoppers,</hi>
+               </l>
+               <l>And other things; but from his ſight ſtand clear,</l>
+               <l>For ſure he ſees, and <hi>Fiſhes well can hear,</hi>
+               </l>
+               <pb n="39" facs="tcp:100090:26"/>
+               <l>For ſight, or noiſe,</l>
+               <l>Are no decoys,</l>
+               <l>In Chryſtial ſtreams,</l>
+               <l>The very ſtirring of a buſh,</l>
+               <l>Makes all your Art not worth a ruſh,</l>
+               <l>And ſo deludes your pains:</l>
+               <l>Which to prevent, act by judicious care,</l>
+               <l>Obſerve the wind, and how you beſt may bear</l>
+               <l>The floating fly,</l>
+               <l>In places nigh</l>
+               <l>His haunts, for ſhady ſhelters his delight,</l>
+               <l>And near the ground ſometimes he'll freely bite,</l>
+               <l>A <hi>Cadice</hi> then, or <hi>Worm</hi> that's red,</l>
+               <l>Like the voluptious, brings him to a dying bed:</l>
+               <l>Exceſs is hurtful none admire,</l>
+               <l>Thoſe Damps extinguiſh natural fire</l>
+               <l>Who covet all, but little can Injoy,</l>
+               <l>And much, to ſome's, eſteem'd the meaneſt toy.</l>
+               <l>
+                  <hi>Alexander</hi> conquered all, yet ſighing weep't.</l>
+               <l>
+                  <hi>Saladines</hi> victories ended in a ſhirt.</l>
+               <l>Angler, ſtrong Tackling have, for he is ſtrong,</l>
+               <l>If only for the <hi>Chub</hi> your <hi>Madam</hi>'s long,</l>
+               <l>Be careful, never truſt the ſingle hair,</l>
+               <l>For that's deceitful, and fruſtrates your care.</l>
+               <l>
+                  <note n="*" place="bottom">At <hi>Heaver Castel,</hi> in the <hi>Medow.</hi>
+                  </note> I Angling lately, for the ſmaller fry,</l>
+               <l>Two hairs my hook did only tie,</l>
+               <l>And thoſe two hairs, two ſcore had ta'n,</l>
+               <l>Till one ſtout <hi>Chub</hi> deludes my pain;</l>
+               <l>I Angled not for him, yet him I did provoke,</l>
+               <l>He ſudden roſe and with a Cruel ſtroke,</l>
+               <pb n="40" facs="tcp:100090:27"/>
+               <l>The eaſy hair gave way,</l>
+               <l>While he Triumphs, as Conquerer that day;</l>
+               <l>It was ſo ſudden, that I ſcarcely knew,</l>
+               <l>Whether he roſe or from the Clouds he flew,</l>
+               <l>Like <hi>Perſeus</hi> on his winged Mare,</l>
+               <l>To bring relief, or Combat in the Air,</l>
+               <l>That Monſter of the great Eternal Seas,</l>
+               <l>Who <hi>Andromeda</hi> ready was to ſeize.</l>
+               <l>But once by chance in water clear,</l>
+               <l>The Brook was narrow, and I near,</l>
+               <l>Cloſe by the Banck a <hi>Chub</hi> I ey'd,</l>
+               <l>And wonder how I came ſo near unſpy'd,</l>
+               <l>His <hi>Argus</hi> eyes, or that he ſleeping lay,</l>
+               <l>To let me ſilent in his way convey</l>
+               <l>My bait, which quickly there he ſpies,</l>
+               <l>And like a Treaſure, all his own he crys,</l>
+               <l>Voracious Natures ſeldom ever can,</l>
+               <l>Revoke the principles at firſt began</l>
+               <l>Inſtilling Craft, but yet the crafty falls</l>
+               <l>Like Coblers uſing Swords inſtead of <hi>Awls.</hi>
+               </l>
+               <l>For by a Touch I hook'd him, then</l>
+               <l>Blaſpheming dyes, like to diſpairing Men.</l>
+               <l>Now comes the <hi>Roach,</hi> againſt the ſtream he'll ſwim,</l>
+               <l>And beat the waters with his ruby fin,</l>
+               <l>Him you may know, if River's ne'er ſo deep,</l>
+               <l>For, when he bites, the flote will downwards creep,</l>
+               <l>Perpendicular to the deep Abyſs,</l>
+               <l>If well he's hung, you'll hardly ever miſs;</l>
+               <l>If <hi>Large,</hi> a little play requires your skill,</l>
+               <l>And always keep his head above the water ſtill,</l>
+               <pb n="41" facs="tcp:100090:27"/>
+               <l>Till ſtrength is ſpent, then bring him to th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſhore</l>
+               <l>And always Angle midle deep or more,</l>
+               <l>For he's not nice, a <hi>Gentle, Cadice</hi> or a <hi>Worm,</hi>
+               </l>
+               <l>Or, on the top, a <hi>fly</hi> will ſerve his turn,</l>
+               <l>Ant <hi>flys</hi> are beſt, for theſe he'll eager chace,</l>
+               <l>Beſides they be a Soveraign bait for <hi>Dace;</hi>
+               </l>
+               <l>Our ſtream affords us none, but I know where</l>
+               <l>They do abound, and have been Angling there,</l>
+               <l>
+                  <note n="*" place="bottom">In <hi>Cheſhire.</hi>
+                  </note> At <hi>Satbleford,</hi> not far from Holy <hi>Dee,</hi>
+               </l>
+               <l>A ſtream abounds, and that moſt Infinitely,</l>
+               <l>
+                  <hi>Dace</hi> are choice, few other Fiſh are there,</l>
+               <l>Except ſome <hi>Trouts,</hi> but they're not large nor fair,</l>
+               <l>Not like unto our <hi>Kentiſh Trouts,</hi> theſe I expreſs</l>
+               <l>Are only good and far unto exceſs.</l>
+               <l>
+                  <note n="†" place="bottom">
+                     <hi>Dalamore Foreſt,</hi> in <hi>Cheſhire.</hi>
+                  </note> In <hi>Dalamore</hi>'s, a ſilent Meer,</l>
+               <l>Good ſtore of <hi>Bream</hi> increaſes there;</l>
+               <l>Broad ſides and little mouths, do ill agree,</l>
+               <l>Tho he's in biting commonly free.</l>
+               <l>Oh! Should you ſee a large one, how he'll play,</l>
+               <l>And with his Tail, beat all the waves away,</l>
+               <l>Scorning ſo ſmall a hook, and little line,</l>
+               <l>Should Antidate him in his flowing prime.</l>
+               <l>Angler, if you go there, have Tackling ſtrong,</l>
+               <l>No Hook, nor Line, you muſt rely upon.</l>
+               <l>When near the ſhore, but with a Net him lift,</l>
+               <l>Elſe his large ſides will put him ſoon a drift.</l>
+               <pb n="42" facs="tcp:100090:28"/>
+               <l>Muſe ſing yet and tell the <hi>Roach,</hi>
+               </l>
+               <l>What other bait he will approach,</l>
+               <l>And let the <hi>Bream</hi> and <hi>Dace</hi> alone,</l>
+               <l>Since our ſweet ſtream affords us none.</l>
+               <l>Among the Flags, if any little place is clear,</l>
+               <l>Or gloomy ſhades, I common find them there;</l>
+               <l>Sometimes they're ſhy,</l>
+               <l>Scarce one will die,</l>
+               <l>No <hi>Worm</hi> nor <hi>Gentle</hi> can them pleaſe,</l>
+               <l>No <hi>Paſte</hi> or <hi>Cadice</hi> then agrees;</l>
+               <l>Yet they'll come near, and ſmell,</l>
+               <l>Then turn their Tails, and bid them all fare<g ref="char:EOLhyphen"/>well.</l>
+               <l>What ſhall I do, no ſport I'm like to have,</l>
+               <l>But drudge all day, yet Fortune helps the brave.</l>
+               <l>Soon from the River then withdraw,</l>
+               <l>Unto ſome <hi>Farm,</hi> and turn the rotten ſtraw.</l>
+               <l>For <hi>VVorms,</hi> a Ruby head and body white,</l>
+               <l>Are certain ſigns the <hi>Roach</hi> at them will bite,</l>
+               <l>Get but a few, you need no more to fear,</l>
+               <l>But you'll have ſport if any <hi>Roach</hi> are there,</l>
+               <l>I ſeldom find them at this bait preciſe;</l>
+               <l>And ſome I've ta'en with other <hi>Fiſhes eyes.</hi>
+               </l>
+               <l>One time my baits were ſpent,</l>
+               <l>I thoughtfull was for more,</l>
+               <l>When Fortune favour'd my Intent,</l>
+               <l>And ſoon ſupply'd my ſtore;</l>
+               <l>A ſudden fancy in my Nodle came,</l>
+               <l>Which I reſolved then to try,</l>
+               <l>Do you but make experience of the ſame,</l>
+               <l>You may ſucceed as well as I,</l>
+               <pb n="43" facs="tcp:100090:28"/>
+               <l>The Glaring <hi>Oculus,</hi> great Loves miſterious bait,</l>
+               <l>That leads the World in errour, Topſy turns a ſtate,</l>
+               <l>Which Monarch's more adore, and brighter ſhines,</l>
+               <l>Then all the Glittering ſtones adorn their Diadems:</l>
+               <l>This was my fancy, and I well may ſay,</l>
+               <l>
+                  <hi>Eyes</hi> were my Guide the Fiſhes to betray,</l>
+               <l>For ſome I took, <hi>Jove</hi> pardon my Intent,</l>
+               <l>To make the blind decoy the Innocent;</l>
+               <l>Wonder no more, 'tis certain true and juſt,</l>
+               <l>Neceſſity begot Invention firſt.</l>
+            </lg>
+            <lg>
+               <l>Next ſing the <hi>Gudgeon,</hi> where he moſt abides,</l>
+               <l>The bait he loves, and where he uſually reſides;</l>
+               <l>A ſtream that's clear, and current pretty ſtrong,</l>
+               <l>With Sand, or Gravel, will detain him long.</l>
+               <l>Cloſe at the bottom, there he grabling lies,</l>
+               <l>And never looks at Heaven, nor ſees the Skys,</l>
+               <l>Till by a <hi>Bradling,</hi> on the Sun he glares,</l>
+               <l>And ends his life without proteſting cares;</l>
+               <l>No Scriviner makes his will, 'tis known to all</l>
+               <l>That commonly the weakeſt goes to th' wall.</l>
+               <l>Directly 'gainſt the ſtream he bears his head,</l>
+               <l>Stones are his Pillow, Sand his Down'y Bed;</l>
+               <l>And Company he loves, for ſeldom he's alone:</l>
+               <l>Paternal cares belong to every one.</l>
+               <pb n="44" facs="tcp:100090:29"/>
+               <l>Angler, if you his haunts would know,</l>
+               <l>Obſerve the ſtream, and how the Currents go,</l>
+               <l>In gentle numbers, or moſt rapid flow,</l>
+               <l>The gentle ſtill belongs unto your care,</l>
+               <l>For there they'll ſwarm, and recompence you fair,</l>
+               <l>If but one Inch, or rather on the ground,</l>
+               <l>Your <hi>Bradling</hi> tail, as you the water ſound;</l>
+               <l>For he'll ne'er riſe, try all the Art you can,</l>
+               <l>To take a bait that's from the ground a ſpan.</l>
+               <l>A <hi>Bradling,</hi> that's his chiefeſt Love,</l>
+               <l>A <hi>Gentle,</hi> ſometimes will him move.</l>
+               <l>So will the <hi>Straw-worm,</hi> from his houſe drawn clear,</l>
+               <l>Shew you the pleaſure that in Rivers are.</l>
+               <l>Apliant Rod,</l>
+               <l>No ſturdy Goad,</l>
+               <l>That Ruſtick People uſe,</l>
+               <l>Gives more delight,</l>
+               <l>When <hi>Gudgeons</hi> bite,</l>
+               <l>Then all their vain Oſtentious ſhews.</l>
+               <l>A Hook that's fine,</l>
+               <l>And Taper Line,</l>
+               <l>Two or three hairs below,</l>
+               <l>May well ſuffice,</l>
+               <l>Unto the wiſe,</l>
+               <l>When they to Angling go.</l>
+               <l>No mighty skill for them you need expend,</l>
+               <l>If baits be good on thoſe they will attend;</l>
+               <l>Increaſe your ſport, and by a freſh deſire,</l>
+               <l>Invite you further on, and then aſpire</l>
+               <pb n="45" facs="tcp:100090:29"/>
+               <l>To be compleat; who ſo for <hi>Gudgeons</hi> Angle,</l>
+               <l>Do oftentimes the beſt of Fiſh intangle;</l>
+               <l>Both <hi>Chub</hi> and <hi>Roach,</hi> the <hi>Pearch</hi> and ſlimy <hi>Eele</hi>
+               </l>
+               <l>Inſenſible, unto a <hi>worm</hi> will ſteal,</l>
+               <l>And raiſe your Expectation to a higher pitch</l>
+               <l>Then floating fry, the vulgar ſo bewitch.</l>
+               <l>But let your baits be always pure and ſweet,</l>
+               <l>And all your Tackling of the beſt compleat,</l>
+               <l>Elſe falls the Proverb to your luck, and then,</l>
+               <l>Of mighty Artiſts, prove but ſimple Men.</l>
+            </lg>
+            <lg>
+               <l>Muſe keep thy Theme, and ſing what other Fiſh</l>
+               <l>Compleats an Angler to his Roving wiſh;</l>
+               <l>And tell thoſe ſorts that in our ſtreams there be,</l>
+               <l>For to repay our coſt and pains with uſury.</l>
+               <l>In weather hot, whole ſholes are found,</l>
+               <l>That leave the bottom, and the top ſurround,</l>
+               <l>Of ſilver <hi>Bleaks,</hi> whoſe verdant backs</l>
+               <l>Like Emeralds ſhine, or finer knacks;</l>
+               <l>
+                  <hi>Bleaks</hi> of a larger ſize then thoſe the <hi>Thames,</hi>
+               </l>
+               <l>Can boaſt in all her Royal ſtreams:</l>
+               <l>Quite different in taſte, the ſhape is one,</l>
+               <l>Luxurious far beyond the <hi>Gudgeon,</hi>
+               </l>
+               <l>That River <hi>Smelts,</hi> do with theſe <hi>Bleaks</hi> op<g ref="char:EOLhyphen"/>poſe,</l>
+               <l>Let ſenſe direct you which of them to choſe.</l>
+               <l>A little hook, one ſingle hair and fly,</l>
+               <l>Are beſt on top, where <hi>Bleaks</hi> all open lie,</l>
+               <l>Drive with the ſtream,</l>
+               <l>And ſhaded be from them.</l>
+               <pb n="46" facs="tcp:100090:30"/>
+               <l>Elſe ſoon they'll ſcud and hide themſelves away,</l>
+               <l>And tedious make the pleaſures of the day.</l>
+               <l>Which to prevent, obſconded be, and then</l>
+               <l>You ne'er can fail to take enough of them.</l>
+               <l>The prey is ſmall,</l>
+               <l>But that's not all</l>
+               <l>An Angler ſhould reſpect;</l>
+               <l>His ways ſublime</l>
+               <l>Exceeding time,</l>
+               <l>Much further can direct.</l>
+               <l>
+                  <hi>Bleaks</hi> greedy are,</l>
+               <l>And to the flys declare</l>
+               <l>A hatred ends in mortal ſtrife,</l>
+               <l>Which <hi>Belzebub</hi> their God reſents,</l>
+               <l>And thus exclaiming, ſoon his paſſion vents</l>
+               <l>Unto his Hell beloved Wife.</l>
+               <l>'My Kingdom will depopulated be,</l>
+               <l>'My ſubjects ſent abroad, return no more to me,</l>
+               <l>'Some newer ſtate I thought might them oppoſe,</l>
+               <l>'Which they reſiſting came to handy blows,</l>
+               <l>'Fortune of Wars on Souldier often fall,</l>
+               <l>'And Honour'd Criples are commanders all;</l>
+               <l>'But in my Regiments there's none I ſee,</l>
+               <l>'That wants a Leg or Arm, but all are free,</l>
+               <l>'Free in their Limbs in Action ſtout,</l>
+               <l>'But few return when they march out,</l>
+               <l>'Some Ambuſh ſure wherein they fall and die;</l>
+               <l>'For <hi>Cannibals</hi> ne'er breakfaſt on a fly.</l>
+               <l>Thus he—</l>
+               <pb n="47" facs="tcp:100090:30"/>
+               <l>But when Intelligence was brought,</l>
+               <l>Of numerous ſquadrons lately gone from Court,</l>
+               <l>And none return'd, except ſome foraign ſhore</l>
+               <l>Gave harbour, they're exil'd for ever more,</l>
+               <l>Wonder of Wonders, where the Buzzing Tribe</l>
+               <l>Should ſtill abſcond prepetually, and hide</l>
+               <l>Their Airy Wings, or ſhould <hi>Boreus</hi> he</l>
+               <l>Imploy them on Plantations to a miſtery,</l>
+               <l>None knows, but ſtreight a Counſel urgent call,</l>
+               <l>And give rewards to thoſe declare it ſhall,</l>
+               <l>And pardon too if they accomplice are,</l>
+               <l>Againſt the winged Buzzers of the Air.</l>
+               <l>This an old <hi>Hornet</hi> heard, who in a hollow tree</l>
+               <l>Reſted ſecure, and ſo preſerv'd his Liberty,</l>
+               <l>Juſt on the Rivers banck, for their he cou'd deſcry</l>
+               <l>Who 'twas prevail'd, and who deſtroy'd the rambling fly.</l>
+               <l>Profound obeyſance to the winged God once made,</l>
+               <l>And Proſtrate at his foot-ſtool, ſighing ſaid;</l>
+               <l>'Dread Liege, no hopes of Honours, no re<g ref="char:EOLhyphen"/>ward I crave,</l>
+               <l>'By Duty bound, as your moſt humble ſlave,</l>
+               <l>'I here with ſorrow can this loſs declare,</l>
+               <l>'That makes your vaſt dominions now ſo bare;</l>
+               <pb n="48" facs="tcp:100090:31"/>
+               <l>'Laſt Night the off-ſpring of my Aged years,</l>
+               <l>'Would bath in ſtreams, expelling future cares,</l>
+               <l>'And in the Liquid Element, would play,</l>
+               <l>'To eaſe the burden of the Inſuing day:</l>
+               <l>'Dubious what chance my Heirs might ſoon betide,</l>
+               <l>'Upon a bough I pearch't, and there eſpy'd,</l>
+               <l>'How in the waters, like <hi>Icarus</hi> in the Air,</l>
+               <l>'They had forgot the Precept of a Parent dear,</l>
+               <l>'They ſtretch their Wings, and ſpoon afore the wind,</l>
+               <l>'My Eldeſt firſt, and ſo the reſt behind,</l>
+               <l>'Try all the pleaſures of the Silver ſtream,</l>
+               <l>'With Sails Expanded, danger far from them</l>
+               <l>'In all appearance, while they joyful play,</l>
+               <l>'And ſilent hours decoy the time away.</l>
+               <l>'Puft with conceit, they'd ſee the <hi>Nymphs</hi> below,</l>
+               <l>'And how the Gods keep't Court in Caves, and ſo</l>
+               <l>'Down to the bottom nimbly dive, and then</l>
+               <l>'Riſe and diſport themſelves with Joys again:</l>
+               <l>'While in my tender Breaſt paternal fears aroſe,</l>
+               <l>'That ſudden Joys have direful ends, which to oppoſe</l>
+               <l>'I loudly call, and bid bold <hi>Hornet</hi> ſtay,</l>
+               <l>'While he forgetful, with the ſtream kept way,</l>
+               <l>'And quickly ſports his precious life away.</l>
+               <pb n="49" facs="tcp:100090:31"/>
+               <l>'Two ſtreams there be, from ſeveral parts that come,</l>
+               <l>'Then with united forces joyn in one;</l>
+               <l>'Under a broad and ſpreading Tree,</l>
+               <l>'Tree alas, and here begins my miſery,</l>
+               <l>'For like ſome Pirate in a hollow clif,</l>
+               <l>'That waits the careleſs Merchant when a drift,</l>
+               <l>'And with full Sails makes to the longed ſhore,</l>
+               <l>'There to unlade, or elſe to freight him more;</l>
+               <l>'Steps boldly forth, and with a fierce ſur<g ref="char:EOLhyphen"/>priſe</l>
+               <l>'Makes the full Veſſel then his lawleſs prize.</l>
+               <l>'So unobſerved, by the ſhady tree</l>
+               <l>'Some <hi>Ch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bs</hi> expecting lay, a prize to ſee,</l>
+               <l>'While my bold Boys, not dreading danger nigh,</l>
+               <l>'Fall in a Gulph, and there expiring die.</l>
+               <l>When this he'd ſaid, his Aged hair he tore,</l>
+               <l>Exceſſive ſorrow ſtopt his ſpeach for more.</l>
+               <l>While <hi>Belzebub,</hi> new comforts to infuſe,</l>
+               <l>Strives to expel his grief, and clearly ſhews</l>
+               <l>His thoughts are free, and ſolemn doth pro<g ref="char:EOLhyphen"/>feſs</l>
+               <l>The watry Element deſtroys his happineſs.</l>
+               <l>When to remoter climes, the aſpiring flys</l>
+               <l>In Numbers ſwarm, and there ſurpriſed dies,</l>
+               <l>Which to prevent, the Counſel all agree,</l>
+               <l>To ſupplicate great <hi>Neptun's</hi> Majeſty,</l>
+               <l>And by addreſs the Sea-green-God implore,</l>
+               <l>To iſſue orders to his ſubjects, o'er</l>
+               <pb n="50" facs="tcp:100090:32"/>
+               <l>The Liquid Element, no more for to ſurpriſe,</l>
+               <l>When travelling, ſpontanious buzzing flys.</l>
+               <l>This then reſolv'd, the Court a Courier ſent,</l>
+               <l>With <hi>Lady Birds,</hi> the Queen of Hells preſent,</l>
+               <l>That <hi>Neptune</hi> may, if ſo his God-head pleaſe,</l>
+               <l>Starve all his <hi>Fiſh,</hi> and pleaſe himſelf with theſe.</l>
+               <l>Such preſents from the God of flys was rare,</l>
+               <l>Each fauning Courtier ſought one for his ſhare.</l>
+               <l>When one bold <hi>Bleak,</hi> more ſturdy then the reſt,</l>
+               <l>Demanding Audience, thus himſelf expreſt.</l>
+               <l>'Hail mighty <hi>Neptune,</hi> by thy trident I</l>
+               <l>'Dare ſwear, tho <hi>Jove</hi> himſelf were by,</l>
+               <l>'That theſe fine <hi>Lady Birds,</hi> enchanting eyes,</l>
+               <l>'The bane of ſubjects are but meer decoys,</l>
+               <l>'And to that purpoſe ſent, while we,</l>
+               <l>'For gaudy outſides, are condemn'd to be</l>
+               <l>'Eternal poor, and ſlaves to miſery;</l>
+               <l>'Our Charters broke, and for a Female ſmile,</l>
+               <l>'Expell'd the Limits of our Bounteous Iſle;</l>
+               <l>'This Law, 'gainſt reaſon, Mighty King re<g ref="char:EOLhyphen"/>voke,</l>
+               <l>'And add no more oppreſſions to our Yoke</l>
+               <l>'Whick heavy is already, ſo that we</l>
+               <l>'Expire at once debar'd of Liberty.</l>
+               <l>'Beſide, Intruding buzzers, that invade</l>
+               <l>'Your Liquid Kingdom, makes us ſtill afraid</l>
+               <l>'They are but ſpies, and ſeek to undermine,</l>
+               <l>'Like <hi>Faux,</hi> your whole Perogative and Line.</l>
+               <pb n="51" facs="tcp:100090:32"/>
+               <l>This ſaid, an univerſial ſhout attends</l>
+               <l>The joynt applauſe of faithful loving friends,</l>
+               <l>While <hi>Lady Birds,</hi> and Courier home were ſent,</l>
+               <l>And Fiſhes ſtill Injoy their own content.</l>
+               <l>Angler if you beſides the <hi>fly,</hi>
+               </l>
+               <l>Would other ways or notions try,</l>
+               <l>Then uſe a <hi>Gentle,</hi> when they do abſcond</l>
+               <l>About ſix foot or more from Land;</l>
+               <l>Or near the middle, nigh the ſhore is none</l>
+               <l>The Sun they Love, and Angle moſt 'bout noon.</l>
+               <l>For I've obſerv'd, when that begins decline,</l>
+               <l>Your Angling then is only loſs of time.</l>
+               <l>Beſides the <hi>Gentle</hi> and the <hi>Fly,</hi>
+               </l>
+               <l>The <hi>Roaches</hi> bait I'd wiſh you try,</l>
+               <l>And let experience tell you then,</l>
+               <l>
+                  <hi>Vain Glory ne'er becomes a Fiſher-man.</hi>
+               </l>
+               <l>How often on a lofty bridge l've ſtood,</l>
+               <l>Whoſe Arches ſtop't the raging floud.</l>
+               <l>When Sun was hot, the water moſt ſerene,</l>
+               <l>And all the fry therein moſt plainly ſeen,</l>
+               <l>While I, abſconded by that Lofty hight,</l>
+               <l>Exceeding pleaſure reap't, and pure delight:</l>
+               <l>For while my <hi>Flys,</hi> drove gently with the ſtream,</l>
+               <l>The mounting <hi>Bleaks</hi> would ſtill admire at them,</l>
+               <l>Then with a ſudden ſpring, new Joys to try,</l>
+               <l>They fall a victime, and lamenting die.</l>
+               <pb n="52" facs="tcp:100090:33"/>
+               <l>Sing next the trouble of the Angling Rod,</l>
+               <l>The little <hi>Menow,</hi> and his blind abode,</l>
+               <l>That enemy to Angling, when he bites</l>
+               <l>Deſtroys our baits, and robs our cheif de<g ref="char:EOLhyphen"/>lights,</l>
+               <l>How to avoid him well we can not tell,</l>
+               <l>In every place in ev'ry hole he'll dwell.</l>
+               <l>Confounded Caitif, who can him avoid</l>
+               <l>If near the ground, except a Load</l>
+               <l>Of worms adorn your hook, yet then</l>
+               <l>He'll nible and do all that e'er he can</l>
+               <l>To raiſe your Paſſion, yet you muſt not ſwear,</l>
+               <l>For frighting other Fiſhes that are near.</l>
+               <l>All baits he loves, and nothing will deny</l>
+               <l>His Appetite, except it be the <hi>Fly,</hi>
+               </l>
+               <l>And that muſt on the water ſwim, if low,</l>
+               <l>'Tis certain gone as other baits I know.</l>
+               <l>So little currs a Maſtiff will engage,</l>
+               <l>And, by eternal bauling, make him rage,</l>
+               <l>Who quiet was before, and that until</l>
+               <l>Great <hi>Madam Spot,</hi> thought 'twas exceeding well</l>
+               <l>Her dainty dandlelap, ſuch courage had,</l>
+               <l>To dare a Maſtiff till he's mad.</l>
+               <l>Theſe <hi>Menows</hi> dare, and often daring die,</l>
+               <l>
+                  <hi>Ignoble Sots deſerve no obſequie,</hi>
+               </l>
+               <l>
+                  <hi>Nor Pity, when moſt willfully they fall,</hi>
+               </l>
+               <l>
+                  <hi>Ambitiouſly aſpiring unto all.</hi>
+               </l>
+               <l>For I have known when <hi>Menows</hi> had,</l>
+               <l>By often ſucking, made them glad,</l>
+               <l>And left the hook near bare,</l>
+               <l>Without all further care;</l>
+               <pb n="53" facs="tcp:100090:33"/>
+               <l>By one ſmall jerk the hook has been</l>
+               <l>Fixt in their Bellies, or their fin,</l>
+               <l>Too late then they, like Drunken Fools, de<g ref="char:EOLhyphen"/>ſign</l>
+               <l>A quick reform from the entoxicating Vine.</l>
+               <l>While the ſilent wound,</l>
+               <l>To the heart has found</l>
+               <l>A new Invented way,</l>
+               <l>Tranſporting Joys,</l>
+               <l>The only Toys,</l>
+               <l>Of Lifes uncertain ſtay.</l>
+               <l>Angler, beſtow ſome pains, direct my Pen</l>
+               <l>How to avoid theſe Plagues which then</l>
+               <l>Requires our cheifeſt skill and all our care,</l>
+               <l>To make our <hi>Recreation</hi> ſupream fair.</l>
+               <l>I'm at a loſs,</l>
+               <l>And do profeſs,</l>
+               <l>The more I think, the further off am I,</l>
+               <l>How to avoid the Inconvenience of theſe fry;</l>
+               <l>Unleſs I ſhould confine my ſelf to holes are deep,</l>
+               <l>Or where the boiſt'rous ſtream doth ſweep</l>
+               <l>The ground with raging force, for there</l>
+               <l>They ſeldom be, and leave our Angling fair;</l>
+               <l>But I to no ſuch task can be confin'd</l>
+               <l>While always plodding by the ſtream, I mind</l>
+               <l>Their ſeveral Meanders, and the ways</l>
+               <l>To uſe my various baits, in various Plays.</l>
+               <l>Sometimes I'm tir'd, and leave my Angle for my Troul,</l>
+               <l>With that I ſtrive ſome other Fiſhes to Cajole</l>
+               <l>Or make my Enemy to ſerve my turn,</l>
+               <l>When at a turning ſtream the <hi>Perches</hi> come,</l>
+               <pb n="54" facs="tcp:100090:34"/>
+               <l>And there Inſulting lye for <hi>Menow</hi> or elſe <hi>Worm;</hi>
+               </l>
+               <l>Either will ſerve if you obſerve the Rules,</l>
+               <l>
+                  <hi>No edged Weapons fits the hand of Fools,</hi>
+               </l>
+               <l>But ſilent wait, and with expecting care,</l>
+               <l>A <hi>Menow</hi> ſoon decoys the beſt are there,</l>
+               <l>Himſelf is good for nought, but by Judicious ſtrife,</l>
+               <l>Gives greater pleaſure to the Patient An<g ref="char:EOLhyphen"/>glers Life.</l>
+               <l>Life free from cares, and thoſe Tumultuous Toys</l>
+               <l>That ſorrow brings, the bane of Mortal Joys;</l>
+               <l>Eternal enemy to reſt and ſweet repoſe;</l>
+               <l>The Angler may be ſtudious thoughts op<g ref="char:EOLhyphen"/>poſe.</l>
+               <l>Refreſhment from the Medows ſweet,</l>
+               <l>The Silver ſtreams afford him meat.</l>
+               <l>What greater Treaſure to a friend who'd bring,</l>
+               <l>Then thoſe which from our labour daily ſpring,</l>
+               <l>
+                  <hi>Labour in vain, the Ingenious do not prize,</hi>
+               </l>
+               <l>
+                  <hi>Pleaſure, that profit brings, becomes the wiſe.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="dialogue">
+            <pb facs="tcp:100090:34"/>
+            <pb facs="tcp:100090:35"/>
+            <pb n="55" facs="tcp:100090:35"/>
+            <head>A DIALOGUE BETWEEN <hi>Piſcator</hi> and <hi>Corydon.</hi>
+            </head>
+            <sp>
+               <speaker>Corydon.</speaker>
+               <lg>
+                  <l>IF Man immortal be, whoſe reaſon's moſt Divine,</l>
+                  <l>'Tis you muſt needs Excel, by uſing well your time.</l>
+                  <l>No ſooner can the Glorious Sun retire</l>
+                  <l>From <hi>Thetis</hi> lap, and with his Beams inſpire,</l>
+                  <l>New vigour to the long expecting World,</l>
+                  <l>When ſable Night hath all his Clouds cloſe furl'd,</l>
+                  <l>But you to view <hi>Aurora</hi>'s bluſhing Face,</l>
+                  <l>In dutious manner o'er the Medows trace,</l>
+                  <l>And with your <hi>Angling Rod,</hi> or <hi>Trouling Pole,</hi>
+                  </l>
+                  <l>Search all the ſtreams, and there the Fiſh Cajole.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Piſcator.</speaker>
+               <lg>
+                  <l>'Tis you that ſee the Glorys of the Sun,</l>
+                  <l>How he begins his courſe, and ſeting down,</l>
+                  <l>How in the Sea he waters his ſwift ſteeds,</l>
+                  <l>And cools their fiery mouths in Seagreen beds,</l>
+                  <l>Refreſhments, Gods and Men, when tired, love</l>
+                  <l>And in Receſſes there ſweetly Improve,</l>
+                  <l>While <hi>Love</hi> with his expanded Charms provokes</l>
+                  <pb n="56" facs="tcp:100090:36"/>
+                  <l>The Amorous Doves, whom <hi>Venus</hi> kindly Yokes,</l>
+                  <l>And with moſt Celebrated ſpeed then flys,</l>
+                  <l>To <hi>Paphos</hi> to the Morning Sacrifice.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Corydon.</speaker>
+               <lg>
+                  <l>No ſooner can <hi>Aurora</hi>'s golden face diſcloſe,</l>
+                  <l>And <hi>Living Clocks</hi> tell Night's gone to repoſe,</l>
+                  <l>But I my Sheep and Lambs moſt careful view,</l>
+                  <l>And from full udders then extract the dew,</l>
+                  <l>Due to great <hi>Pan,</hi> and of my kine take care,</l>
+                  <l>The joyful Iſſue of their Mothers fair;</l>
+                  <l>But what Redounds from your Elaborat care and skill,</l>
+                  <l>Declare, for I expect it, with Impatience ſtill.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Piſcator.</speaker>
+               <lg>
+                  <l>I view the Meads, and ſee how <hi>Flora</hi>'s Love</l>
+                  <l>Not given in vain, and Mortal's ſtill Improve</l>
+                  <l>By ſpacious Landskips, to our nicer eyes,</l>
+                  <l>The true Contentments ſlugards ſeldom prize,</l>
+                  <l>Who ſpends three parts of Lingering life in ſleep,</l>
+                  <l>Then riſe to dine and ſup, again to creep</l>
+                  <l>Between the ſheets, with drowſie dreams there ly,</l>
+                  <l>Like <hi>Morpheus</hi> in his lateſt Agony.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Corydon.</speaker>
+               <lg>
+                  <l>But yet declare the pleaſure that you reap,</l>
+                  <l>Among the ſtreams are ſwift, and wide, and deep,</l>
+                  <l>For I've obſerv'd, that there you're moſt an end.</l>
+                  <l>
+                     <hi>Piſcator,</hi> pray now tell unto thy friend,</l>
+                  <l>Thy long experience, I'll with Joy attend,</l>
+                  <l>From your Diviner Counſel all you know,</l>
+                  <l>Be ſpeedy, while we trace this Medow throw,</l>
+                  <l>For at the Old Boundary, there we part,</l>
+                  <l>I to my <hi>Kine,</hi> and you unto your <hi>Art.</hi>
+                  </l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Piſcator.</speaker>
+               <lg>
+                  <l>
+                     <hi>Corydon,</hi> if for this time, your time you can enlarge</l>
+                  <l>The mornings fair, and let your Hind take charge</l>
+                  <l>For once, of your fat Herd, the Rivers nigh,</l>
+                  <l>Where I'll demonſtrate the pleaſure I Injoy.</l>
+                  <l>By occular inſpection you ſhall ſee,</l>
+                  <l>If Angling be n't a part of Heaven's Divinity.</l>
+                  <pb n="57" facs="tcp:100090:36"/>
+                  <l>While we with patience here, and with pure minds,</l>
+                  <l>Reap the contentment Heaven to Man Injoyns.</l>
+                  <l>Obſerve the ſtreams and ſee them filent go,</l>
+                  <l>How on the bancks a thouſand beauties grow,</l>
+                  <l>The wiſe Creator did, in mighty Love beſtow</l>
+                  <l>On Man, and, by a Providential care,</l>
+                  <l>Stock'd all the waters with the Fiſh are there,</l>
+                  <l>Who multiply, and therein largely breed,</l>
+                  <l>To give us Joy, and ſerve us at our need.</l>
+                  <l>Tho 'tis confeſt your ſtock and care extends</l>
+                  <l>The Limits, unto which my ſtudy bends.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Corydon.</speaker>
+               <lg>
+                  <l>Great is my care, and great my Labours be,</l>
+                  <l>Confin'd to be a drudge eternally:</l>
+                  <l>Yet uſe and daily labour brings me gain.</l>
+                  <l>When Udders overflow with milk amain,</l>
+                  <l>Free from contentions and domeſtick ſtrife,</l>
+                  <l>The Eternal jarings of a Crabtree life.</l>
+                  <l>See yond' ſtout <hi>Bullock</hi> with his neck new worn,</l>
+                  <l>Whoſe fellows plow the ground for plentious Corn,</l>
+                  <l>Which <hi>Ceres,</hi> as a mighty bleſſing, ſends,</l>
+                  <l>She hath my Love; to <hi>Pan</hi> my offering bends,</l>
+                  <l>Father of Shepherds, we thy Ruſticks are</l>
+                  <l>As well as Flocks, thy everlaſting care;</l>
+                  <l>In rural numbers we thy praiſe rehearſe,</l>
+                  <l>And pay our Obligations in Immortal verſe;</l>
+                  <l>No fluent ſtrains but ſuch as Nature gave,</l>
+                  <l>Plain as our Souls, but always juſt and brave.</l>
+                  <l>When <hi>Amarillis, Phillis, Cloris</hi> joyn</l>
+                  <l>And make conſorting Harmony Divine.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Piſcator.</speaker>
+               <lg>
+                  <l>No knowledge in the Husbandmans affairs,</l>
+                  <l>Belong unto my Art, nor all his Teeming cares</l>
+                  <l>Know I, nor pleaſe my ſelf to ſee the Oxen Plow,</l>
+                  <l>And Labouring thro' the new made ſurrows go.</l>
+                  <l>The painful Harrow gives me no delight,</l>
+                  <l>Nor can I comprehend how one ſhort night,</l>
+                  <l>Can give due reſt, or yield a ſweet repoſe</l>
+                  <pb n="58" facs="tcp:100090:37"/>
+                  <l>To toylſome ſwains, that with the Sun ſtill goes,</l>
+                  <l>From one care to another, Reapers always ſweat,</l>
+                  <l>And <hi>Ceres</hi> bounty yields them labours, yet</l>
+                  <l>Full Barns are threſh'd, the winnow'd wheat appears,</l>
+                  <l>Which gives both Joy and Trouble to ſucceeding years,</l>
+                  <l>If my adviſe in Friendly manner, can obtain</l>
+                  <l>But your attention, while my obſervations plain</l>
+                  <l>How you ſome hours of tedious life may eaſe,</l>
+                  <l>Controul your cares and ſweetly reſt in peace.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Corydon.</speaker>
+               <lg>
+                  <l>Thy Friendſhip I ſtill own, if fates were free</l>
+                  <l>I willing would obtain and learn thy miſtery;</l>
+                  <l>But cares ſtill cloud my over willing mind,</l>
+                  <l>Sprung from the <hi>Earth,</hi> there's all the Joy I find.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Piſcator.</speaker>
+               <lg>
+                  <l>Ne'er mind the <hi>Earth,</hi> to Heaven lift your eyes,</l>
+                  <l>All bleſſings come from ſupream Deities.</l>
+                  <l>Thoſe griping Miſers, that the Muck adore,</l>
+                  <l>Are always empty, and in plenty poor.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Corydon.</speaker>
+               <lg>
+                  <l>Earth is my buſineſs, and a ſoil that's rich,</l>
+                  <l>Gives me contentment; <hi>Jove</hi> I ſtill beſeech</l>
+                  <l>That all my Teeming <hi>Ews</hi> may fruitful be,</l>
+                  <l>And Crown my Labours with their large poſterity,</l>
+                  <l>So may my <hi>Darie</hi> daily ſtill abound,</l>
+                  <l>With plentious bleſſings from my <hi>Heifers</hi> ſound.</l>
+                  <l>'Tis all I covet, Miſers Gold admire</l>
+                  <l>The only Loadſtone to a fond deſire.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Piſcator.</speaker>
+               <lg>
+                  <l>
+                     <hi>Croeſus,</hi> and <hi>Midas,</hi> Gold could ne'er content,</l>
+                  <l>Ingraven Ingots, all the Gods they meant,</l>
+                  <l>But baubles, to the Golden gliſtering o'er</l>
+                  <l>That Damn'd their Souls, yet dy'd exceeding poor.</l>
+                  <l>
+                     <hi>Corydon,</hi> if you'll but gratify me half this day,</l>
+                  <l>I will repay your kindneſs when you turn your Hay,</l>
+                  <l>Fain would I now Spectator you ſhould be,</l>
+                  <l>If I ha'n't reaſon to be kind and free.</l>
+                  <pb n="59" facs="tcp:100090:37"/>
+                  <l>Almighty Nature bountious bleſſing ſends,</l>
+                  <l>Which I in Love impart unto my friends,</l>
+                  <l>Who ſtill pertake, with Liberal hand I ſtrive</l>
+                  <l>Their Loves to keep, Eternal Love ſurvive.</l>
+                  <l>What greater Treaſure can I elſe beſtow,</l>
+                  <l>Then that from my aſſiduous pleaſures flow,</l>
+                  <l>The River's near, give your attention then,</l>
+                  <l>I'll ſhew you all the beauties of the ſtream.</l>
+                  <l>Under that ſhady Oak obſcure there lie</l>
+                  <l>For Gods themſelves are private at their miſtery.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Corydon.</speaker>
+               <lg>
+                  <l>
+                     <hi>Piſcator,</hi> I'll obey; <hi>You Powers Divine,</hi>
+                  </l>
+                  <l>Pardon if I miſpend my precious time.</l>
+                  <l>Ah, no! I'll contemplate of <hi>Heaven</hi> and every thing,</l>
+                  <l>Great <hi>Pan,</hi> good notions to my mind now bring</l>
+                  <l>While here I ſtay, and with Induſtrious care</l>
+                  <l>Behold <hi>Piſcator,</hi> what his motions are,</l>
+                  <l>For knowledge none in his ſweet art I have,</l>
+                  <l>Such ſtudys only fit the juſt and brave;</l>
+                  <l>Who with attention and with patience ſtrange</l>
+                  <l>Hunt thro' the Liquid Element, and change</l>
+                  <l>Their ſeveral Chaſes, as their obſervations vary,</l>
+                  <l>Profound in knowledge ſeldom can miſcary.</l>
+                  <l>So <hi>Herdſman</hi> go, a double care extend,</l>
+                  <l>While I this day <hi>Piſcator</hi> do attend.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Piſcator.</speaker>
+               <lg>
+                  <l>Propitious fortune bleſs my floating quill,</l>
+                  <l>By which, obſerving how the Fiſhes ſtill</l>
+                  <l>Nible the bait, then greedy ſwallow all,</l>
+                  <l>As dying Victims, triumph in their fall,</l>
+                  <l>That <hi>Corydon</hi> may ſee the difference and find,</l>
+                  <l>That pleaſure ſoon expels the troubles of the mind,</l>
+                  <l>Immortal <hi>Jove,</hi> tir'd with the labours of the day</l>
+                  <l>Withdraws, and to new pleaſures finds the way.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Corydon.</speaker>
+               <lg>
+                  <l>
+                     <hi>Piſcator</hi> does your eager haſte ſucceed,</l>
+                  <l>Or, will your pains ſupply your preſent need,</l>
+                  <pb n="60" facs="tcp:100090:38"/>
+                  <l>The Sun is mounted high, and ſoon will fall,</l>
+                  <l>But what repaſt have you for me, or all,</l>
+                  <l>Slight is your ſtore, your Meager looks denys,</l>
+                  <l>But that your Belly wants its due ſupplys.</l>
+                  <l>'Tis time, for Nature ſtill refreſhment claims,</l>
+                  <l>And hunger ſtill ſucceeds moſt pleaſing pains.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Piſcator.</speaker>
+               <lg>
+                  <l>I have enough for to ſupply your wiſh,</l>
+                  <l>And here in Love I do preſent a Diſh:</l>
+                  <l>To ſave the late expence of your loſt time,</l>
+                  <l>Such Fiſh as now are only in their prime;</l>
+                  <l>A Brace of <hi>Jacks,</hi> ſome <hi>Chubbs,</hi> and more</l>
+                  <l>Three Luſty <hi>Pearch</hi> I lately brought aſhore,</l>
+                  <l>Not naming thoſe of the Ignoble fry,</l>
+                  <l>That greedy ſwallow and as ſudden dye,</l>
+                  <l>Three Dozen, more or leſs I'm ſure, I've ta'en,</l>
+                  <l>A ſweet requital for ſo ſmall a pain;</l>
+                  <l>Get but a friend or two, and of your ſtore</l>
+                  <l>We'll banquet then this Night, and often more,</l>
+                  <l>Since Neighbours like, in Love we both agree,</l>
+                  <l>We'll Celebrate great <hi>Pan,</hi> and <hi>Neptunes</hi> liberality.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Corydon</speaker>
+               <lg>
+                  <l>Now I'm convinc'd <hi>Piſcator's</hi> art's ſublime,</l>
+                  <l>He profit reaps by his expence of time.</l>
+                  <l>By harmleſs pleaſure, yet he always may</l>
+                  <l>Contemplate the Eternal bounty of the day;</l>
+                  <l>Which gives ſuch Inclinations all Divine,</l>
+                  <l>Without the Hazard of more precious time,</l>
+                  <l>For while he Angles, ſerious there he may</l>
+                  <l>Conſider life, and life's uncertain way,</l>
+                  <l>By fleeting time that never yet would ſtay.</l>
+                  <l>Some friends I have at need, and thoſe</l>
+                  <l>Shall ſup with us, if nothing do oppoſe,</l>
+                  <l>Whoſe hearts are Cheery, and my home-made Wine</l>
+                  <l>Shall mount their Souls more lofty then the <hi>Vine.</hi>
+                  </l>
+                  <l>Great <hi>Bacchus</hi> darling, <hi>Pomona</hi>'s joys are more</l>
+                  <l>Then all the Grapes Inſipped Fools adore.</l>
+                  <l>Command my Houſe, one hour I crave to be</l>
+                  <pb n="61" facs="tcp:100090:38"/>
+                  <l>Among my kine, and other drudgery,</l>
+                  <l>The Maſters eye, make all the Horſes fat,</l>
+                  <l>Is the old Proverb, ſtill remember that.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Piſcator.</speaker>
+               <lg>
+                  <l>Well, I'll be <hi>Cook,</hi> againſt your quick return,</l>
+                  <l>But bring your friends, for whom I inward mourn,</l>
+                  <l>Leſt ſome dull chance ſhould keep them yet away,</l>
+                  <l>Like tedious Prologue to a duller play.</l>
+                  <l>Be quick dear <hi>Corydon,</hi> make haſte be ſure,</l>
+                  <l>Impatience hardly will admit a cure.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Corydon.</speaker>
+               <lg>
+                  <l>See I have made a quick return, and brought</l>
+                  <l>Thoſe friends who ſcorn to have an Idle thought,</l>
+                  <l>True friends they be, and ſuch are only rare</l>
+                  <l>Whoſe well bred ſouls, them Noble can declare.</l>
+                  <l>Now here's a Rummer to my friends and you;</l>
+                  <l>Dear hearts be jovial, ſorrow did adiew.</l>
+                  <l>
+                     <hi>Piſcators</hi> Fiſh, joyn'd with my home-made Wine,</l>
+                  <l>Inſtills new vigor to our fleeting time.</l>
+                  <l>Time's ſtill in haſte, old Time for none will tarry,</l>
+                  <l>But we'll deceive him once, whilſt hearts are merry,</l>
+                  <l>See here's a brimmer to our Royal King,</l>
+                  <l>Succeſs attend him, and let every thing</l>
+                  <l>Joy in his wellfare, proſperity ſtill be</l>
+                  <l>Upon our Soveraign, and his dignity.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Piſcator.</speaker>
+               <lg>
+                  <l>Now call your <hi>Cloris,</hi> and your <hi>Phillis,</hi> ſhe</l>
+                  <l>That Sings ſo well, and makes ſuch Harmony,</l>
+                  <l>Let's hear thoſe lays, are due to your great <hi>Pan,</hi>
+                  </l>
+                  <l>The God of Shepherds, and the Husbandman;</l>
+                  <l>But Sing in parts and let them both declare</l>
+                  <l>The Joys that are in Ruſtical affair.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Corydon.</speaker>
+               <lg>
+                  <l>
+                     <hi>Phillis, Cloris,</hi> tune your Pipes, and let us hear,</l>
+                  <l>Your melody can ſoon digeſt our cheer;</l>
+                  <l>Take turns to warble forth ſome pleaſing ſtrain,</l>
+                  <l>For to delight my friends, who don't diſdain</l>
+                  <pb n="62" facs="tcp:100090:39"/>
+                  <l>To hear ken to, and then applaud your choice,</l>
+                  <l>Both of the ſubject, and your ſweeter voice.</l>
+               </lg>
+            </sp>
+            <div type="songs">
+               <lg>
+                  <head>SONG.</head>
+                  <l>Phill. <hi>THen Midnight Ghosts ſink to the ſhades be<g ref="char:EOLhyphen"/>low,</hi>
+                  </l>
+                  <l>
+                     <hi>Affrighted, when the Cocks begin to Crow,</hi>
+                  </l>
+                  <l>
+                     <hi>And tell the day appears,</hi>
+                  </l>
+                  <l>
+                     <hi>No longer they muſt ſtay,</hi>
+                  </l>
+                  <l>
+                     <hi>But Inſtant pack away</hi>
+                  </l>
+                  <l>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>nto Infernal ſpheres.</hi>
+                  </l>
+                  <l>
+                     <hi>Then mortals wake and free from cares</hi>
+                  </l>
+                  <l>
+                     <hi>Injoy the Day, expelling fears,</hi>
+                  </l>
+                  <l>
+                     <hi>The Lamp of Heaven the Sun</hi>
+                  </l>
+                  <l>
+                     <hi>Sends forth his glorious light,</hi>
+                  </l>
+                  <l>
+                     <hi>And bids adiew to diſmal night,</hi>
+                  </l>
+                  <l>
+                     <hi>Our labour's then begun,</hi>
+                  </l>
+                  <l>
+                     <hi>A morning Hymn, and to the Fields away,</hi>
+                  </l>
+                  <l>
+                     <hi>We Dairy Maidens have no time for play,</hi>
+                  </l>
+                  <l>
+                     <hi>Love and his Idle houres</hi>
+                  </l>
+                  <l>
+                     <hi>Neglected always be,</hi>
+                  </l>
+                  <l>
+                     <hi>That grand ſimplicity</hi>
+                  </l>
+                  <l>
+                     <hi>No pastime is of ours,</hi>
+                  </l>
+                  <l>
+                     <hi>But Joys ſupream, in udders full we find;</hi>
+                  </l>
+                  <l>
+                     <hi>The bleſſings of our Kine, we only mind,</hi>
+                  </l>
+                  <l>
+                     <hi>Whoſe overflowing Veins</hi>
+                  </l>
+                  <l>
+                     <hi>Give Nectar at our fire,</hi>
+                  </l>
+                  <l>
+                     <hi>That Gods and Men admire</hi>
+                  </l>
+                  <l>
+                     <hi>Our Happineſs and Pains.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>SONG.</head>
+                  <l>Cloris. <hi>Great Pan, to thee we all oblations pay</hi>
+                  </l>
+                  <l>
+                     <hi>Father of Gods and Men, to thee we pray.</hi>
+                  </l>
+                  <l>
+                     <hi>No Wolves offend our fold while we</hi>
+                  </l>
+                  <l>
+                     <hi>Are abſent at our Husbandry,</hi>
+                  </l>
+                  <l>
+                     <hi>Still may our bleating ſheep, bring tender Lambs</hi>
+                  </l>
+                  <l>
+                     <hi>And mighty Fleeces from our Ewes and Rams,</hi>
+                  </l>
+                  <l>
+                     <hi>Thou art their Father, with Paternal care</hi>
+                  </l>
+                  <l>
+                     <hi>Protect them and their off-ſpring fair.</hi>
+                  </l>
+                  <pb n="63" facs="tcp:100090:39"/>
+                  <l>
+                     <hi>While</hi> Ceres <hi>bounty daily we attend,</hi>
+                  </l>
+                  <l>
+                     <hi>Let thy all ſeeing eye, ſo far extend,</hi>
+                  </l>
+                  <l>
+                     <hi>In Loving rays upon our Flocks,</hi>
+                  </l>
+                  <l>
+                     <hi>Preſerve and keep their dew'y looks.</hi>
+                  </l>
+                  <l>
+                     <hi>Which we in ſtormy weather gently cull,</hi>
+                  </l>
+                  <l>
+                     <hi>Then Card and Twiſt the glorious ſilver Wool,</hi>
+                  </l>
+                  <l>
+                     <hi>The Weavers art, our want ſupplys,</hi>
+                  </l>
+                  <l>
+                     <hi>Beyond the Ruby Tinctured Dyes.</hi>
+                  </l>
+                  <l>
+                     <hi>Homeborn our Souls, and ſo our lives we lead,</hi>
+                  </l>
+                  <l>
+                     <hi>We know no Citys, nor the Courtly breed,</hi>
+                  </l>
+                  <l>
+                     <hi>Nor ne'er deſire they ſhould prevail,</hi>
+                  </l>
+                  <l>
+                     <hi>Over the Dutys to the Milking Pail.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="continuation_of_dialogue">
+               <sp>
+                  <speaker>Corydon.</speaker>
+                  <lg>
+                     <l>
+                        <hi>Piſcator,</hi> your turn's next, I pray you Sing,</l>
+                     <l>Your Angling paſtime, or the Fiſhes King.</l>
+                     <l>What Kings they have, or what you pleaſe belong</l>
+                     <l>To Angling, make the burden of your Song.</l>
+                     <l>But firſt to clear your Pipes we'll drink,</l>
+                     <l>No time is loſt in that I juſtly think.</l>
+                     <l>Propitious <hi>Bacchus,</hi> great Inventer of the Vine,</l>
+                     <l>This Ruminer's to thy health, and to the ſiſters Nine,</l>
+                     <l>Immortal lays attend them, and the Lawrel thee,</l>
+                     <l>For <hi>Love</hi> and <hi>Wine</hi> gives life to Poetry.</l>
+                  </lg>
+               </sp>
+            </div>
+            <div type="song">
+               <head>SONG.</head>
+               <lg>
+                  <l>Piſcator. <hi>WHen firſt the Harbinger to day,</hi>
+                  </l>
+                  <l>
+                     <hi>Tell's</hi> Sol<hi>'s approaching, and a ray</hi>
+                  </l>
+                  <l>
+                     <hi>Darts from the ſhining</hi> Eaſt.</l>
+                  <l>
+                     <hi>Then from my Bed, I haſty fly;</hi>
+                  </l>
+                  <l>
+                     <hi>No fiſh will come a ſlugard nigh,</hi>
+                  </l>
+                  <l>
+                     <hi>By twenty foot at leaſt.</hi>
+                  </l>
+                  <l>
+                     <hi>My Tools got ready over Night,</hi>
+                  </l>
+                  <l>
+                     <hi>I know the hours when they will bite,</hi>
+                  </l>
+                  <l>
+                     <hi>And when they won't be free,</hi>
+                  </l>
+                  <l>
+                     <hi>Looſe not the moſt expected prime,</hi>
+                  </l>
+                  <l>
+                     <hi>But take the moſt convenient time</hi>
+                  </l>
+                  <l>
+                     <hi>When Storms and Clouds none be,</hi>
+                  </l>
+                  <l>
+                     <hi>When boiſt'rous Winds in Caves are pent,</hi>
+                  </l>
+                  <l>Zephyrus <hi>breezes only vent,</hi>
+                  </l>
+                  <pb n="64" facs="tcp:100090:40"/>
+                  <l>
+                     <hi>Then I begin to</hi> Troul,</l>
+                  <l>
+                     <hi>For haſty</hi> Pike, <hi>or greedy</hi> Jack,</l>
+                  <l>
+                     <hi>Of which I ſeldom uſe to lack,</hi>
+                  </l>
+                  <l>
+                     <hi>And Love them with my Soul.</hi>
+                  </l>
+                  <l>Sol, <hi>if his Morning Beams prove fair,</hi>
+                  </l>
+                  <l>
+                     <hi>With Glorious Skys, ſerene the Air,</hi>
+                  </l>
+                  <l>
+                     <hi>To Angling then I go.</hi>
+                  </l>
+                  <l>
+                     <hi>For</hi> Trout, <hi>or</hi> Pearch, <hi>for</hi> Roach, <hi>or</hi> Bleak,</l>
+                  <l>
+                     <hi>But</hi> Chubs <hi>I ſeldom uſe to ſeek,</hi>
+                  </l>
+                  <l>
+                     <hi>And for ſome reaſons know.</hi>
+                  </l>
+                  <l>
+                     <hi>They eager be to caſt themſelves away,</hi>
+                  </l>
+                  <l>
+                     <hi>Before declines the ſhort liv'd day,</hi>
+                  </l>
+                  <l>
+                     <hi>If there appears a fly</hi>
+                  </l>
+                  <l>
+                     <hi>On waters calm, tho ne'er ſo deep,</hi>
+                  </l>
+                  <l>
+                     <hi>Without a Ladder, up he'll creep,</hi>
+                  </l>
+                  <l>
+                     <hi>And Gorge it Inſtantly.</hi>
+                  </l>
+                  <l>Neptune, <hi>Commander of the</hi> Seas,</l>
+                  <l>
+                     <hi>Thy Queen and Loving</hi> Neriades,</l>
+                  <l>
+                     <hi>That daily we adore,</hi>
+                  </l>
+                  <l>
+                     <hi>Propitious to our paſtimes be,</hi>
+                  </l>
+                  <l>
+                     <hi>All Anglers Love thy Deity,</hi>
+                  </l>
+                  <l>
+                     <hi>And will for evermore.</hi>
+                  </l>
+                  <l>
+                     <hi>Tho' we thy Fiſhes do decoy,</hi>
+                  </l>
+                  <l>
+                     <hi>And therein place a ſupream Joy,</hi>
+                  </l>
+                  <l>
+                     <hi>With Hooks and Lines.</hi>
+                  </l>
+                  <l>
+                     <hi>Yet we no</hi> Poachers <hi>can abide,</hi>
+                  </l>
+                  <l>
+                     <hi>That ſcorn thy Majeſty, beſide</hi>
+                  </l>
+                  <l>
+                     <hi>And with Ignoble crimes</hi>
+                  </l>
+                  <l>
+                     <hi>Thy ſubjects in unlawful Nets,</hi>
+                  </l>
+                  <l>
+                     <hi>Deſtroy, and afterward abets,</hi>
+                  </l>
+                  <l>
+                     <hi>For to deface thy Throne.</hi>
+                  </l>
+                  <l>
+                     <hi>Rouſe Mighty Monarch of the</hi> Seas,</l>
+                  <l>
+                     <hi>And let thy trident, if thou pleaſe</hi>
+                  </l>
+                  <l>
+                     <hi>Confound them every one.</hi>
+                  </l>
+                  <l>
+                     <hi>That ſo we Anglers daily may,</hi>
+                  </l>
+                  <l>
+                     <hi>Find ſtore of Game, and freer play,</hi>
+                  </l>
+                  <l>
+                     <hi>While with attentive eyes,</hi>
+                  </l>
+                  <l>
+                     <hi>We mind our floating quill, for then</hi>
+                  </l>
+                  <l>
+                     <hi>What Victims fall by Angling Men</hi>
+                  </l>
+                  <pb n="65" facs="tcp:100090:40"/>
+                  <l>
+                     <hi>We to thee Sacrifice.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="continuation_of_dialogue">
+               <sp>
+                  <speaker>Corydon.</speaker>
+                  <lg>
+                     <l>Call <hi>Hobb</hi> our Boy and you ſhall hear him Sing</l>
+                     <l>A Ballet which from Town, he late did bring,</l>
+                     <l>Compos'd of Kniting, and the ſweet delight,</l>
+                     <l>That Ladies do Injoy, each morn and night,</l>
+                     <l>While buſied thoughts, from Love ſequeſtred be,</l>
+                     <l>And all admire their own Felicity.</l>
+                  </lg>
+               </sp>
+            </div>
+            <div type="song">
+               <head>SONG.</head>
+               <lg>
+                  <l>Hobb. <hi>HOW pleaſant are we,</hi>
+                  </l>
+                  <l>
+                     <hi>In joys that are free,</hi>
+                  </l>
+                  <l>
+                     <hi>Since</hi> kniting <hi>of</hi> knots <hi>is the faſhion,</hi>
+                  </l>
+                  <l>
+                     <hi>The</hi> Citizens <hi>wife,</hi>
+                  </l>
+                  <l>
+                     <hi>Is void from all ſtrife,</hi>
+                  </l>
+                  <l>
+                     <hi>While buſied at ſuch occupation.</hi>
+                  </l>
+                  <l>
+                     <hi>The</hi> Beau<hi>'s of the Town,</hi>
+                  </l>
+                  <l>
+                     <hi>May chance for to frown,</hi>
+                  </l>
+                  <l>
+                     <hi>Now kniting ſo much is requeſted,</hi>
+                  </l>
+                  <l>
+                     <hi>By Ladies whoſe eyes,</hi>
+                  </l>
+                  <l>
+                     <hi>All Glorys Compriſe,</hi>
+                  </l>
+                  <l>
+                     <hi>Such Sots are always rejected.</hi>
+                  </l>
+                  <l>
+                     <hi>The Madam of Honour,</hi>
+                  </l>
+                  <l>
+                     <hi>When viſits come on her,</hi>
+                  </l>
+                  <l>
+                     <hi>Finds double delight in her kniting,</hi>
+                  </l>
+                  <l>
+                     <hi>An Azmilla of thread,</hi>
+                  </l>
+                  <l>
+                     <hi>From her foot to her head</hi>
+                  </l>
+                  <l>
+                     <hi>Declares ſhe has no mind to Jilting.</hi>
+                  </l>
+                  <l>
+                     <hi>Thoſe baubles of plays,</hi>
+                  </l>
+                  <l>
+                     <hi>That encreaſe or delays,</hi>
+                  </l>
+                  <l>
+                     <hi>Expectation into a kind greeting,</hi>
+                  </l>
+                  <l>
+                     <hi>By kniting of knots,</hi>
+                  </l>
+                  <l>
+                     <hi>Can tell all the ſpots,</hi>
+                  </l>
+                  <l>
+                     <hi>That Lovers Indure at a meeting.</hi>
+                  </l>
+                  <l>
+                     <hi>The pleaſure is ſuch</hi>
+                  </l>
+                  <l>
+                     <hi>No Wiſe Man will grutch,</hi>
+                  </l>
+                  <l>
+                     <hi>The Joys of our ſweet vocation.</hi>
+                  </l>
+                  <l>
+                     <hi>While kniting his Wife,</hi>
+                  </l>
+                  <l>
+                     <hi>Is ſpending her Life,</hi>
+                  </l>
+                  <pb n="66" facs="tcp:100090:41"/>
+                  <l>
+                     <hi>And all for the Pride of the Nation.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="continuation_of_dialogue">
+               <sp>
+                  <speaker>Piſcator.</speaker>
+                  <lg>
+                     <l>God a mercy <hi>Hobb,</hi> we thank you for your Song,</l>
+                     <l>'Tis time to part, I think we've tarried long.</l>
+                     <l>The Cocks are now begining for to Crow,</l>
+                     <l>And each muſt part, and to his home now go,</l>
+                     <l>Leſt Wives ſhould chide, who are commanders all,</l>
+                     <l>Good hours do often keep us from a braul.</l>
+                     <l>I'll be thoſe Wives whoſe clamorous Tongues repay,</l>
+                     <l>Our ſofteſt kindneſs tho we ſeldom ſtray,</l>
+                     <l>Love be our guide, and Love reſtrains our fears,</l>
+                     <l>While Love gives health unto ſucceeding years.</l>
+                     <l>Time flys apace as we have tryal made;</l>
+                     <l>The Night's too ſhort, or longer I'd a ſtaid.</l>
+                     <l>Now take my thanks, kind <hi>Corydon,</hi> your friends</l>
+                     <l>Accept the ſame, my mind now homeward tends</l>
+                     <l>Leſt dubious thoughts, in my Loves breaſt ſhould riſe,</l>
+                     <l>And anger breed, which to prevent be wiſe,</l>
+                     <l>And keep good hours, tho now I did exceed</l>
+                     <l>'Twas Love, 'twas Kindneſs to my friend indeed,</l>
+                     <l>Siniſter actions, let none willing try</l>
+                     <l>Good night, proſperity attend you all, good buy.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Corydon.</speaker>
+                  <lg>
+                     <l>
+                        <hi>Piſcator</hi>'s gone, in joys he's doubly bleſt,</l>
+                     <l>While all tranquilities poſſeſs his Breaſt;</l>
+                     <l>Pious his Soul, contentment in his mind,</l>
+                     <l>The greateſt Treaſure Mortals here can find.</l>
+                     <l>See with with what freedom, and what Love he gave</l>
+                     <l>His Labours, which declare him Nobly brave.</l>
+                     <l>Some of his Fiſh, undreſt, my friends, remains,</l>
+                     <l>Take to your homes, and there Injoy his pains,</l>
+                     <l>Which he eſteems no labour, had I his Art,</l>
+                     <l>I'd ſpare ſome time from Toylſome Plow and Cart.</l>
+                     <l>Sweet is the pleaſure that Mans Soul poſſeſs,</l>
+                     <l>VVhere Joys create a laſting happineſs.</l>
+                     <l>Such is an <hi>Anglers,</hi> who from grief or care,</l>
+                     <l>Curbs with diſcretion, thoughts that bring diſpair.</l>
+                     <l>Tho I'm no <hi>Angler, Anglers</hi> ſtill I'll love,</l>
+                     <l>For <hi>Anglers</hi> Patience comes from Mighty <hi>Jove.</hi>
+                     </l>
+                  </lg>
+               </sp>
+            </div>
+         </div>
+         <div type="postscript">
+            <pb n="67" facs="tcp:100090:41"/>
+            <head>Poſtſcript.</head>
+            <p>
+               <hi>WEdneſday</hi> the eighth of <hi>March,</hi> 1699. At Nine a Clock at Night, Mr. <hi>Hyde</hi> ſent his Foot-man to my Houſe, to tell me that he deſigned to draw his great Fiſh Pond at <hi>Winckhurſt</hi> next morning, and deſir<g ref="char:EOLhyphen"/>ed me to meet him there to be partaker of his diverſion with Captain <hi>Comer,</hi> and Mr. <hi>Robert Outram,</hi> which I did.</p>
+            <p>I have ſeen ſeveral Fiſh Ponds drawn and abundance of Fiſh taken, but never in my life ſo many at one time.</p>
+            <p>It was a moſt pleaſing ſight to ſee above a Thouſand Golden-ſcal'd <hi>Carps</hi> at once lie pan<g ref="char:EOLhyphen"/>ting on the ground; Some of them above twenty Inches in Length, and ſilently ſeem'd to lament their Captivity, and among them ſome over-grown <hi>Pearches</hi> of eighteen Inches long, whoſe Porcupine backs and gaping mouths which diſcover'd Teeth as ſharp as <hi>Spaniſh</hi> Needles, that ſeemed to threaten the Spectators for debaring them from their proper Element; beſide an Infinite Number of moſt curious <hi>Tench,</hi> and ſmall <hi>Pearch,</hi> to the great Amazement of the beholders.
+<pb n="68" facs="tcp:100090:42"/>The reaſon why Mr. <hi>Hyde,</hi> ſew'd his great Pond, was, becauſe he would ſtock his new Fiſh Pond at his Houſe at <hi>Sundridge</hi> place, with only choice Fiſh, and it is a curious Pond indeed, into which he put three Hun<g ref="char:EOLhyphen"/>dred and Fifty of thoſe <hi>Carps</hi> which were from Sixteen to twenty Inches in length, be<g ref="char:EOLhyphen"/>ſide the large <hi>Pearches</hi> with abundance of ſmall ones.</p>
+            <p>Which in two years time will grow large, a great many Curious <hi>Tench</hi> were put in with them, beſide a Kilderkin full of very large Silver <hi>Eeles,</hi> ſome of them as big as a Mans wriſt.</p>
+            <p>The Fiſh were carried in a Waggon, drawn by a ſtout Team of Horſes from <hi>Winckhurſt</hi> Pond to his Houſe at <hi>Sundridge,</hi> being about four Mile diſtant one from the other; beſide he ſent four Hundred delicate <hi>Carps</hi> to his ſtews at <hi>Bore-place,</hi> another of his ſeats which he keeps always ready to plea<g ref="char:EOLhyphen"/>ſure his Friends and Gentry, who often viſit him for their Recreation at both places, but moſt commonly at <hi>Sundridge,</hi> where he chiefly reſides.</p>
+            <p>The <hi>Carps</hi> are commendable, they don't eat muddy, for a continual ſtream preſerves them from the offenſive taſte that moſt have in other Ponds, that want the conveniency of a ſtream; and <hi>Winckhurſt</hi> Pond is of ſuch extent, that they were ten days in leting out the water, and the laſt two days ſeveral Peo<g ref="char:EOLhyphen"/>ple
+<pb n="69" facs="tcp:100090:42"/>watch'd by a good fire Night and Day, and wanted not the Bleſſing of Roaſt Beef and Napy Ale, which Mr. <hi>Hyde</hi> conſtantly ſupply'd them with: It's impoſſible to tell the juſt Number of Fiſh we took, for he gave away abundance of every ſort to all thoſe he would lend a helping hand, as well La<g ref="char:EOLhyphen"/>bourers as Friendly Spectators, whoſe Curio<g ref="char:EOLhyphen"/>ſity brought them to Injoy the delight that Lovely Spectacle invited them to.</p>
+            <p>Among the fine <hi>Carps</hi> he gave me, with ſome Silver <hi>Eeles,</hi> he was pleaſed to preſent me with one <hi>Pearch</hi> of thirteen Inches long and nine Inches over, I weigh'd it when I came home, and it weigh'd one Pound ten Ounces, and had an other Fiſh in his Belly, but it was nothing in Compariſon to thoſe he carried to <hi>Sundridge</hi> place, when we had ſent away our choice Fiſh we ſtock'd <hi>Winck<g ref="char:EOLhyphen"/>hurſt</hi> Pond again, and put in two thouſand <hi>Carps</hi> from nine Inches to fourteen in length, not reckoning the ſmall <hi>Pearch</hi> and <hi>Tench,</hi> which might be by gueſs as many more, which in three hours time were all bravely afloat to their Contentment, by the ſtream that runs into the Pond.</p>
+            <p>I can juſty ſum up of that days Action, that we took two Thouſand Seven Hundred and Fifty <hi>Carps.</hi>
+            </p>
+            <p>Not reckoning thoſe were given away, nor the <hi>Tench,</hi> nor <hi>Pearch,</hi> nor Silver <hi>Eeles;</hi> I am of opinion that no Pond in the County
+<pb n="70" facs="tcp:100090:43"/>of <hi>Kent,</hi> [if in the Nation] had ſuch a ſtock of Fiſh, for laſt Summer I, with Captain <hi>Comer</hi> and an other Gentleman, did in one Day take with our Angles twenty Brace of <hi>Carps</hi> of extraordinary growth, if any que<g ref="char:EOLhyphen"/>ſtion the truth of this Poſtſcript, Mr. <hi>Hyde</hi> himſelf, with Captain <hi>Comer,</hi> my ſelf, and ſe<g ref="char:EOLhyphen"/>veral other People of good Quality, who were then with us only as Spectators, can juſtify the Truth.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>
+                        <hi>Winckhurſt</hi> ſtock'd with</cell>
+                     <cell>2000 <hi>Carps.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sundridge</hi> Place with</cell>
+                     <cell>0350</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Boar</hi> Place ſtews with</cell>
+                     <cell>0400</cell>
+                  </row>
+                  <row>
+                     <cell>In all.</cell>
+                     <cell>2750</cell>
+                  </row>
+               </table>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:100090:43"/>
+         </div>
+      </body>
+   </text>
+</TEI>
